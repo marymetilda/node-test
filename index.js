@@ -1,41 +1,15 @@
-// import data from "./db.json";
 const data = require("./db.json");
+var cors = require("cors");
+
+const corsOptions = {
+  origin: "*",
+};
 
 const Joi = require("joi");
 const express = require("express");
 
 const app = express();
-app.use(express.json());
-
-// app.get('/', (req, res) => {
-//     res.send('Hello World')
-// })
-
-// app.get('/api/courses', (req, res) => {
-//     res.send([1, 2, 3, 4])
-// })
-
-// // /api/courses/1 - single parameters
-// app.get('/api/courses/:id', (req, res) => {
-//     res.send(req.params.id)
-// })
-
-// // Request with multiple parameters
-// app.get('/api/posts/:year/:month', (req, res) => {
-//     res.send(req.params)
-// })
-
-// // Request with query parameters
-// app.get('/api/comments', (req, res) => {
-//     res.send(req.query)
-// })
-
-const courses = [
-  { id: 1, name: "course 1" },
-  { id: 2, name: "course 2" },
-  { id: 3, name: "course 3" },
-  { id: 4, name: "course 4" },
-];
+app.use(cors(corsOptions));
 
 app.get("/", (_, res) => {
   res.send("Welcome hello world");
@@ -45,26 +19,26 @@ app.get("/api/restaurants", (_, res) => {
   res.send(data.restroData);
 });
 
-app.post("/api/courses", (req, res) => {
-  const { error } = validateCourse(req.body);
+app.post("/api/restaurants", (req, res) => {
+  const { error } = validaterestaurant(req.body);
   if (error) return req.status(400).send(error.details[0].message);
 
-  const course = {
-    id: courses.length + 1,
+  const restaurant = {
+    id: data.restroData.length + 1,
     name: req.body.name,
   };
-  courses.push(course);
-  res.send(course);
+  data.restroData.push(restaurant);
+  res.send(restaurant);
 });
 app.get("/api/restaurants/:id", (req, res) => {
   const restaurent = data.restroData.find(
-    (restaurent) => restaurent.id === parseInt(req.params.id)
+    (restaurent) => restaurent.id === req.params.id
   );
 
   if (!restaurent)
     return res
       .status(404)
-      .send("The course with the given course ID was not found");
+      .send("The restaurant with the given restaurant ID was not found");
   res.send(restaurent);
 });
 
@@ -74,7 +48,7 @@ app.get("/api/restaurants/menu/:id", (req, res) => {
   if (!menu)
     return res
       .status(404)
-      .send("The course with the given course ID was not found");
+      .send("The restaurant with the given restaurant ID was not found");
   res.send(menu);
 });
 
@@ -84,49 +58,49 @@ const port = process.env.PORT || 3000; // Assign custom assignable ports.
 
 app.listen(port, () => console.log(`Listening the port ${port}...`));
 
-app.put("/api/courses/:id", (req, res) => {
-  // Look up the course
+app.put("/api/restaurants/:id", (req, res) => {
+  // Look up the restaurant
   // If not existing, return 404
-  const course = courses.find(
-    (course) => course.id === parseInt(req.params.id)
+  const restaurant = data.restroData.find(
+    (restaurant) => restaurant.id === req.params.id
   );
-  if (!course)
+  if (!restaurant)
     return res
       .status(404)
-      .send("The course with the given course ID was not found.");
+      .send("The restaurant with the given restaurant ID was not found.");
 
   // Validate
   // If invalid, return 400 - Bad request
-  const { error } = validateCourse(req.body);
+  const { error } = validaterestaurant(req.body);
   if (error) return res.status(400).send(error.details[0].message);
 
-  // Update course
-  course.name = req.body.name;
+  // Update restaurant
+  restaurant.name = req.body.name;
 
-  // Return the updated Course
-  res.send(course);
+  // Return the updated restaurant
+  res.send(restaurant);
 });
 
-app.delete("/api/courses/:id", (req, res) => {
-  const course = courses.find(
-    (course) => course.id === parseInt(req.params.id)
+app.delete("/api/restaurants/:id", (req, res) => {
+  const restaurant = data.restroData.find(
+    (restaurant) => restaurant.id === req.params.id
   );
 
-  if (!course)
+  if (!restaurant)
     return res
       .status(404)
-      .send("The course with the given course iD was not found");
+      .send("The restaurant with the given restaurant iD was not found");
 
-  const index = courses.indexOf(course);
-  courses.splice(index, 1);
+  const index = data.restroData.indexOf(restaurant);
+  data.restroData.splice(index, 1);
 
-  res.send(course);
+  res.send(restaurant);
 });
 
-const validateCourse = (course) => {
+const validaterestaurant = (restaurant) => {
   const schema = {
     name: Joi.string().min(3).required(),
   };
 
-  return Joi.validate(course, schema);
+  return Joi.validate(restaurant, schema);
 };
