@@ -1,11 +1,20 @@
+// import data from "./db.json";
 const data = require("./db.json");
 
 const Joi = require("joi");
 const express = require("express");
-// import data from "./db.json";
+
+// For cors error
+const corsOpts = {
+  origin: "*",
+
+  methods: ["GET", "POST"],
+
+  allowedHeaders: ["Content-Type"],
+};
 
 const app = express();
-app.use(express.json());
+app.use(cors(express.json()));
 
 // app.get('/', (req, res) => {
 //     res.send('Hello World')
@@ -56,7 +65,6 @@ app.post("/api/courses", (req, res) => {
   courses.push(course);
   res.send(course);
 });
-
 app.get("/api/restaurants/:id", (req, res) => {
   const restaurent = data.restroData.find(
     (restaurent) => restaurent.id === parseInt(req.params.id)
