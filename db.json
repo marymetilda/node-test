@@ -1,2096 +1,2095 @@
 {
-    "restroData": [
-      {
-        "id": "10575",
-        "name": "Pizza Hut",
-        "cuisines": ["Pizzas"],
-        "costForTwo": "₹600 for two",
-        "avgRating": 4.1,
-        "deliveryTime": 37,
-        "cloudinaryImageId": "2b4f62d606d1b2bfba9ba9e5386fabb7"
-      },
-      {
-        "id": "43836",
-        "name": "McDonald's",
-        "cuisines": ["Burgers", "Beverages", "Cafe", "Desserts"],
-        "costForTwo": "₹400 for two",
-        "avgRating": 4.3,
-        "deliveryTime": 25,
-        "cloudinaryImageId": "03501c33ecb3a3105124441e541e6fe4"
-      },
-      {
-        "id": "588619",
-        "name": "KFC",
-        "cuisines": ["Burgers", "Biryani", "American", "Snacks", "Fast Food"],
-        "costForTwo": "₹400 for two",
-        "avgRating": 4.2,
-        "deliveryTime": 31,
-        "cloudinaryImageId": "f01666ac73626461d7455d9c24005cd4"
-      },
-      {
-        "id": "368270",
-        "name": "Mini Samrat",
-        "cuisines": ["South Indian", "North Indian", "Chinese", "Desserts"],
-        "costForTwo": "₹350 for two",
-        "avgRating": 4.4,
-        "deliveryTime": 33,
-        "cloudinaryImageId": "rvsndbyajgvx2sdtuvek"
-      },
-      {
-        "id": "205813",
-        "name": "Paakashala",
-        "cuisines": ["South Indian", "North Indian", "Chinese"],
-        "costForTwo": "₹500 for two",
-        "avgRating": 4.4,
-        "deliveryTime": 27,
-        "cloudinaryImageId": "thkhqrsskc5745ztfz2v"
-      },
-      {
-        "id": "53490",
-        "name": "Palmgrove Ballal Residency",
-        "cuisines": ["Chinese", "Coastal", "Desserts", "Jain", "South Indian"],
-        "costForTwo": "₹400 for two",
-        "avgRating": 4.6,
-        "deliveryTime": 30,
-        "cloudinaryImageId": "wf83wrssazu2prtt7rss"
-      }
-    ],
-    "10575": [
-      {
-        "title": "Recommended",
-        "itemCards": [
-          {
-            "id": "72273333",
-            "imageId": "dpventcrozvfni0lqb10",
-            "name": "Margherita",
-            "price": 16900,
-            "description": "Serves 1 | Pizza topped with our herb-infused signature pan sauce and 100% mozzarella cheese. A classic treat for all cheese lovers out there!"
-          },
-          {
-            "id": "72273361",
-            "imageId": "cbye9x7wxeopwqvenn7g",
-            "name": "Veggie Feast",
-            "price": 25900,
-            "description": "Serves 1 | Herbed onion and Green Capsicum, juicy Sweet Corn & 100% mozzarella cheese with flavourful pan sauce."
-          },
-          {
-            "id": "72273294",
-            "imageId": "s5ld93rsknx0fhj6xarn",
-            "name": "Tandoori Paneer",
-            "price": 31900,
-            "description": "Serves 1 | It's our signature. Spiced Paneer, Crunchy Onions & Green Capsicum, spicy Red Paprika with delicious Tandoori Sauce and 100% mozzarella cheese!"
-          },
-          {
-            "id": "72273263",
-            "imageId": "c3832837392378cca98e484b89c313ba",
-            "name": "Country Feast",
-            "price": 31900,
-            "description": "Serves 1 | Loaded with Herbed Onion & Green capsicum, Sweet Corn, Tomato with signature pan sauce and 100% Mozzarella cheese. It's a feast you can't refuse."
-          },
-          {
-            "id": "111819621",
-            "imageId": "z0c4xpovma1qtmu4tlls",
-            "name": "Veggie Supreme",
-            "price": 37900,
-            "description": "Serves 1 | A supreme combination of Black Olives, Green Capsicum, Mushroom, Onion, spicy Red Paprika & juicy Sweet Corn  with flavourful pan sauce and 100% mozzarella cheese."
-          },
-          {
-            "id": "72273138",
-            "imageId": "juplqft4tmub5hqocwxk",
-            "name": "Chicken Tikka",
-            "price": 37900,
-            "description": "Serves 1 | Mouth-watering Chicken Tikka, crunchy Onion & Tomato with delicious Tandoori Sauce and 100% mozzarella cheese."
-          },
-          {
-            "id": "87270853",
-            "imageId": "dlvdmsn1uotbdn4vzvap",
-            "name": "Chicken Supreme",
-            "price": 40900,
-            "description": "Serves 1 | Loaded with delicious Chicken Tikka, flavourful Herbed Chicken, spicy Schezwan Chicken Meatball with flavourful pan sauce and 100% mozzarella cheese."
-          },
-          {
-            "id": "72273104",
-            "imageId": "quxirmjttzksp7xlhysc",
-            "name": "Triple Chicken Feast",
-            "price": 40900,
-            "description": "Serves 1 | Spicy Schezwan Chicken Meatball, flavourful  Herbed Chicken, juicy Chicken Sausage, Green Capsicum & Onion, spicy Red Paprika with classic pan sauce and 100% mozzarella cheese."
-          },
-          {
-            "id": "114788346",
-            "imageId": "e4f730c3f48f82fce15895dacf3e9081",
-            "name": "Exotica Veggie Garlic Bread - New",
-            "price": 15900,
-            "description": "Serves 1 | Hut's signature Garlic Bread topped with spiced exotic veggies and cheesy dressing"
-          },
-          {
-            "id": "70601527",
-            "imageId": "n2ycmete7ehes9mrerlw",
-            "name": "Classic Bread Stix",
-            "price": 11900,
-            "description": "Serves 1 | Freshly baked buttery bread stick, sprinkled with herbs"
-          },
-          {
-            "id": "70601533",
-            "imageId": "o0zibtrbtyjwznptrsgy",
-            "name": "Creamy Bread Stix",
-            "price": 16900,
-            "description": "Serves 1 | Freshly baked buttery bread sticks, topped with a creamy sauce & herbs"
-          },
-          {
-            "id": "70601532",
-            "imageId": "m8ecjvtqcjtnt31uvobl",
-            "name": "Garlic Bread Spicy Supreme",
-            "price": 16900,
-            "description": "Serves 1 | Garlic bread topped with (Mozzarella cheeese, onion & green chillies)."
-          },
-          {
-            "id": "114788348",
-            "imageId": "frgza6cm1sjezw79pjtu",
-            "name": "Sprinkled Fries - New",
-            "price": 10900,
-            "description": "Serves 1 | Baked Fries seasoned with our signature peruvian seasoning"
-          },
-          {
-            "id": "119747071",
-            "imageId": "7ac7f4004c86ebb381fa1c0c3bd58722",
-            "name": "Brow-wow-nie",
-            "price": 10900,
-            "description": "Serves 1 | A divine choco brownie for your all time chocolate cravings"
-          },
-          {
-            "id": "111745331",
-            "imageId": "aylqpxx08pltowbzxhd3",
-            "name": "Chicken Sausage - Personal",
-            "price": 25900,
-            "description": "Serves 1 | Pizza topped with Chicken n Cheese Sausages & crunchy Onions, flavourful pan sauce and 100% mozzarella cheese."
-          },
-          {
-            "id": "99712869",
-            "imageId": "ckbnw98n6tffy50wvuzm",
-            "name": "Corn & Cheese - Personal",
-            "price": 17900,
-            "description": "Serves 1 | A combination of juicy Sweet Corn & 100% mozzarella cheese with flavourful signature pan sauce."
-          },
-          {
-            "id": "99712904",
-            "imageId": "fqzol9tuftv5aelg0v35",
-            "name": "Country Feast - Personal",
-            "price": 31900,
-            "description": "Serves 1 | Loaded with Herbed Onion & Green capsicum, Sweet Corn, Tomato & Mushroom with signature pan sauce and 100% mozzarella cheese. It's a feast you can't refuse."
-          },
-          {
-            "id": "99712884",
-            "imageId": "a89yqx09ppwlecyqterp",
-            "name": "Spiced Paneer - Personal",
-            "price": 25900,
-            "description": "Serves 1 | Spiced Paneer, crunchy Onion, juicy Tomato & 100% mozzarella cheese, with our classic pan sauce."
-          },
-          {
-            "id": "128412959",
-            "imageId": "c423ad4107490e753329ff9eaf3f1ab8",
-            "name": "Classic BreadStix + Cheesy Dip + Pepsi Pet",
-            "price": 20900,
-            "description": "Serves 1 | Buttery Classic BreadStix , Cheesy Dip, & a refreshing Pepsi - a combo you won't wanna miss!"
-          },
-          {
-            "id": "128412961",
-            "imageId": "911cf4771b2fe4361b8bf59b748db610",
-            "name": "Creamy BreadStix + Pepsi Pet",
-            "price": 22900,
-            "description": "Serves 1 | Enjoy Creamy Garlic Bread Stix & Pepsi. Freshly baked Classic BreadStix + gooey cheese sauce = an unbeatable combo!"
-          }
-        ]
-      },
-      {
-        "title": "Veg Pizza",
-        "itemCards": [
-          {
-            "id": "116284765",
-            "imageId": "0e7df98b7cffdb0b88856464014ad2ff",
-            "name": "Schezwan Margherita",
-            "price": 21900,
-            "description": "Serves 1 | Your very own Margherita, now with a spicy twist! Loaded with our signature spicy schezwan sauce & 100% mozzarella cheese"
-          },
-          {
-            "id": "116284767",
-            "imageId": "0c4c12819d98a35144e3f08451ae64f3",
-            "name": "Mexican Fiesta",
-            "price": 31900,
-            "description": "Serves 1 | Flavourful mix of red capsicum, green capsicum, jalapeno, onion, black olives, sweet corn and 100% mozzarella Cheese with a signature spice sprinkle & our flavourful pan sauce."
-          },
-          {
-            "id": "116284769",
-            "imageId": "c53ce130542adf692e861b4bf9756883",
-            "name": "Cheezy Mushroom Magic",
-            "price": 31900,
-            "description": "Serves 1 | A new combination with creamy mushroom sauce, chunky black olives, spicy jalapeno, juicy sweet corn, mushroom and 100% mozzarella cheese with garlic sprinkle for extra flavour hit."
-          },
-          {
-            "price": 37900,
-            "description": "Serves 1 | An ultimate combination of your favourite veggies- onion, green capsicum, mushroom, tomato, spicy jalapeno on tandoori sauce, topped with 100% mozzarella cheese & generous drizzle of mint mayo.",
-            "id": "116284770",
-            "imageId": "b7d1f56df6414f8b6e49001af95e259a",
-            "name": "Ultimate Tandoori Veggie"
-          },
-          {
-            "price": 37900,
-            "description": "Serves 1 | A treat for all makhni lovers. Spiced paneer, onion, juicy red bell peppers with our new flavourful makhni sauce, topped with 100% mozzarella cheese and buttery spice sprinkle",
-            "id": "116284772",
-            "imageId": "bf62afee565475fb92a204206321a41c",
-            "name": "Mazedar Makhni Paneer"
-          },
-          {
-            "price": 37900,
-            "description": "Serves 1 | Our divine peruvian flavoured cheesy sauce, topped with sweet corn, green capsicum, red paprika and 100% mozzarella cheese, finished with a generous drizzle of texas garlic sauce.",
-            "id": "116284774",
-            "imageId": "9bd233c76aaf2d2745c5c07332609a8c",
-            "name": "Awesome American Cheesy"
-          },
-          {
-            "price": 16900,
-            "description": "Serves 1 | Pizza topped with our herb-infused signature pan sauce and 100% mozzarella cheese. A classic treat for all cheese lovers out there!",
-            "id": "72273333",
-            "imageId": "dpventcrozvfni0lqb10",
-            "name": "Margherita"
-          },
-          {
-            "price": 21900,
-            "description": "Serves 1 | A combination of juicy Sweet Corn & 100% mozzarella cheese with flavourful signature pan sauce.",
-            "id": "72273302",
-            "imageId": "ckbnw98n6tffy50wvuzm",
-            "name": "Corn & Cheese"
-          },
-          {
-            "price": 25900,
-            "description": "Serves 1 | Herbed onion and Green Capsicum, juicy Sweet Corn & 100% mozzarella cheese with flavourful pan sauce.",
-            "id": "72273361",
-            "imageId": "cbye9x7wxeopwqvenn7g",
-            "name": "Veggie Feast"
-          },
-          {
-            "price": 25900,
-            "description": "Serves 1 | Spiced Paneer, crunchy Onion, juicy Tomato  & 100% mozzarella cheese, with our classic pan sauce.",
-            "id": "99811646",
-            "imageId": "a89yqx09ppwlecyqterp",
-            "name": "Spiced Paneer"
-          },
-          {
-            "price": 31900,
-            "description": "Serves 1 | It's our signature. Spiced Paneer, Crunchy Onions & Green Capsicum, spicy Red Paprika with delicious Tandoori Sauce and 100% mozzarella cheese!",
-            "id": "72273294",
-            "imageId": "s5ld93rsknx0fhj6xarn",
-            "name": "Tandoori Paneer"
-          },
-          {
-            "price": 31900,
-            "description": "Serves 1 | Loaded with Herbed Onion & Green capsicum, Sweet Corn, Tomato with signature pan sauce and 100% Mozzarella cheese. It's a feast you can't refuse.",
-            "id": "72273263",
-            "imageId": "c3832837392378cca98e484b89c313ba",
-            "name": "Country Feast"
-          },
-          {
-            "price": 37900,
-            "description": "Serves 1 | A supreme combination of Black Olives, Green Capsicum, Mushroom, Onion, spicy Red Paprika & juicy Sweet Corn  with flavourful pan sauce and 100% mozzarella cheese.",
-            "id": "111819621",
-            "imageId": "z0c4xpovma1qtmu4tlls",
-            "name": "Veggie Supreme"
-          },
-          {
-            "description": "Serves 1 | Pizza topped with our herb-infused signature pan sauce and 100% mozzarella cheese. A classic treat for all cheese lovers out there!",
-            "id": "96589956",
-            "imageId": "dpventcrozvfni0lqb10",
-            "name": "Margherita Pizza",
-            "price": 16900
-          }
-        ]
-      },
-      {
-        "title": "Non Veg Pizza",
-        "itemCards": [
-          {
-            "price": 28900,
-            "description": "Serves 1 | Our classic chicken & cheese sausage, juicy sweet corn and 100% mozzarella cheese with flavourful pan sauce",
-            "id": "116284775",
-            "imageId": "190c84ffc8773254c38b3b993e31ba73",
-            "name": "Sausage & Sweet Corn."
-          },
-          {
-            "price": 31900,
-            "description": "Serves 1 | Dhaba style chicken keema masala, with green chiili, crunchy onion with flavourful pan sauce, 100 % mozzarella cheese & a generous drizzle of mint mayo",
-            "id": "116284825",
-            "imageId": "d9eddb1993da4e5dc65ef2ceaa8503f7",
-            "name": "Dhabe Da Keema"
-          },
-          {
-            "price": 31900,
-            "description": "Serves 1 | Loaded with our signature spicy schezwan sauce, juicy schezwan chicken meatballs & 100% mozzarella cheese",
-            "id": "116284830",
-            "imageId": "4061af0525c00c89f0d1edbe7216765c",
-            "name": "Sizzling Schezwan Chicken"
-          },
-          {
-            "price": 37900,
-            "description": "Serves 1 | Our divine peruvian flavoured cheesy sauce, topped with classic chicken pepperoni, cheese and chicken sausage black olives, spicy jalapeno and 100% mozzarella cheese, finished with a generous drizzle of texas garlic sauce.",
-            "id": "116284837",
-            "imageId": "f55016931d13f7489c6140de76fa16aa",
-            "name": "Awesome American Cheesy Chicken"
-          },
-          {
-            "price": 40900,
-            "description": "Serves 1 | A chicken lovers delight ! Combination of chicken malai tikka, flavourful chicken keema masala, crunchy onion, juicy tomato on our new makhni sauce with 100% mozzarella cheese and buttery spice sprinkle.",
-            "id": "116284841",
-            "imageId": "eb7467f9836bde6741eff6cf81b996da",
-            "name": "Nawabi Murg Makhni"
-          },
-          {
-            "price": 25900,
-            "description": "Serves 1 | Pizza topped with Chicken n Cheese Sausages & crunchy Onions, flavourful pan sauce and 100% mozzarella cheese.",
-            "id": "72273341",
-            "imageId": "aylqpxx08pltowbzxhd3",
-            "name": "Chicken Sausage"
-          },
-          {
-            "price": 37900,
-            "description": "Serves 1 | Amazingly flavourful Chicken Malai Tikka, Herbed Onion & Green Capsicum, spicy Red Paprika with flavourful pan sauce and 100% mozzarella cheese.",
-            "id": "72273167",
-            "imageId": "t1stinhga3alitdpr6yt",
-            "name": "Murg Malai Chicken"
-          },
-          {
-            "price": 37900,
-            "description": "Serves 1 | Mouth-watering Chicken Tikka, crunchy Onion & Tomato with delicious Tandoori Sauce and 100% mozzarella cheese.",
-            "id": "72273138",
-            "imageId": "juplqft4tmub5hqocwxk",
-            "name": "Chicken Tikka"
-          },
-          {
-            "price": 37900,
-            "description": "Serves 1 | Yummy Chicken Pepperoni & 100% mozzarella cheese with signature pan sauce. Its a classic!",
-            "id": "87270850",
-            "imageId": "gdz44c9hirco09bdafoq",
-            "name": "Chicken Pepperoni"
-          },
-          {
-            "price": 40900,
-            "description": "Serves 1 | Loaded with delicious Chicken Tikka, flavourful Herbed Chicken, spicy Schezwan Chicken Meatball with flavourful pan sauce and 100% mozzarella cheese.",
-            "id": "87270853",
-            "imageId": "dlvdmsn1uotbdn4vzvap",
-            "name": "Chicken Supreme"
-          },
-          {
-            "price": 40900,
-            "description": "Serves 1 | A divine combination of delicious Chicken Tikka &  Malai Chicken Tikka, Onion, spicy Red Paprika with flavourful pan sauce and 100% mozzarella cheese.",
-            "id": "72273116",
-            "imageId": "d3bnas8nxt9dr13jhipu",
-            "name": "Chicken Tikka Supreme"
-          },
-          {
-            "price": 40900,
-            "description": "Serves 1 | Spicy Schezwan Chicken Meatball, flavourful  Herbed Chicken, juicy Chicken Sausage, Green Capsicum & Onion, spicy Red Paprika with classic pan sauce and 100% mozzarella cheese.",
-            "id": "72273104",
-            "imageId": "quxirmjttzksp7xlhysc",
-            "name": "Triple Chicken Feast"
-          }
-        ]
-      },
-      {
-        "title": "Garlic Bread",
-        "itemCards": [
-          {
-            "description": "Serves 1 | Hut's signature Garlic Bread topped with spiced exotic veggies and cheesy dressing",
-            "id": "114788346",
-            "imageId": "e4f730c3f48f82fce15895dacf3e9081",
-            "name": "Exotica Veggie Garlic Bread - New",
-            "price": 15900
-          },
-          {
-            "description": "Serves 1 | Freshly baked buttery bread stick, sprinkled with herbs",
-            "id": "70601527",
-            "imageId": "n2ycmete7ehes9mrerlw",
-            "name": "Classic Bread Stix",
-            "price": 11900
-          },
-          {
-            "description": "Serves 1 | Freshly baked buttery bread sticks, topped with a creamy sauce & herbs",
-            "id": "70601533",
-            "imageId": "o0zibtrbtyjwznptrsgy",
-            "name": "Creamy Bread Stix",
-            "price": 16900
-          },
-          {
-            "description": "Serves 1 | Nothing beats our garlic bread! Period!",
-            "id": "70601506",
-            "imageId": "ziohlqoy38mfqzmfxy7e",
-            "name": "Cheese Garlic Bread",
-            "price": 15900
-          },
-          {
-            "description": "Serves 1 | Garlic bread topped with (Mozzarella cheeese, onion & green chillies).",
-            "id": "70601532",
-            "imageId": "m8ecjvtqcjtnt31uvobl",
-            "name": "Garlic Bread Spicy Supreme",
-            "price": 16900
-          }
-        ]
-      },
-      {
-        "title": "Appetizer",
-        "itemCards": [
-          {
-            "description": "Serves 1 | Baked Fries seasoned with our signature peruvian seasoning",
-            "id": "114788348",
-            "imageId": "frgza6cm1sjezw79pjtu",
-            "name": "Sprinkled Fries - New",
-            "price": 10900
-          },
-          {
-            "description": "Serves 1 | Freshly baked pocket stuffed with flavourful paneer, veggies & smoked texas garlic sauce",
-            "id": "70601542",
-            "imageId": "spmefmk8u9ftwbvdk6ay",
-            "name": "Zesty Paneer Pocket",
-            "price": 12900
-          },
-          {
-            "description": "Serves 1 | Freshly baked pocket stuffed with chicken, veggies & smoked texas garlic sauce",
-            "id": "70601539",
-            "imageId": "wukqmbrmv0vngtlrczgw",
-            "name": "Zesty Chicken Pocket",
-            "price": 14900
-          },
-          {
-            "description": "Serves 1 | 4 pcs of Tender and Juicy sweet chilly chicken wings.",
-            "id": "70601554",
-            "imageId": "f5fyw9eyvkdjvybjhgho",
-            "name": "Spicy Baked Chicken Wings (4 pcs)",
-            "price": 20900
-          },
-          {
-            "description": "Serves 1 | Tender and Juicy sweet chilli chicken wings.",
-            "id": "70601538",
-            "imageId": "aeems3ogejdzxfjblkx7",
-            "name": "Spicy Baked Chicken Wings",
-            "price": 25900
-          },
-          {
-            "description": "Serves 1 | Jalapano poppers with gooey white sauce.",
-            "id": "70601551",
-            "imageId": "oqfrpjaw6v4q3p3qafww",
-            "name": "Jalapeno Poppers",
-            "price": 11900
-          },
-          {
-            "description": "Serves 1 | Cheesy Jalapeno Dip 20 Gm",
-            "id": "81890283",
-            "imageId": "l7twhqhybkdlsvkyq3pj",
-            "name": "Cheesy Dip",
-            "price": 2857
-          },
-          {
-            "description": "Serves 1 | Veg Mayonnaise Dip 20 Gm",
-            "id": "81890281",
-            "imageId": "k05qzlgnyo43bdjdbbuy",
-            "name": "Veg Mayonnaise Dip",
-            "price": 2857
-          },
-          {
-            "description": "Serves 1 | Ketchup Sachet",
-            "id": "79483780",
-            "imageId": "hovlvq3ceumkhyivd0ik",
-            "name": "Ketchup",
-            "price": 95
-          },
-          {
-            "description": "Serves 1 | Schezwan Dip",
-            "id": "76892507",
-            "imageId": "ygx3tiuj7ygbp1jyw1ce",
-            "name": "Momo Dip",
-            "price": 3000
-          }
-        ]
-      },
-      {
-        "title": "Flat Menu @179",
-        "itemCards": [
-          {
-            "description": "Our divine peruvian flavoured cheesy sauce, topped with sweet corn, green capsicum, red paprika and 100% mozzarella cheese, finished with a generous drizzle of texas garlic sauce.",
-            "id": "128412976",
-            "imageId": "9bd233c76aaf2d2745c5c07332609a8c",
-            "name": "Awesome American Cheesy - Personal",
-            "price": 37900
-          },
-          {
-            "description": "A new combination with creamy mushroom sauce, chunky black olives, spicy jalapeno, juicy sweet corn, mushroom and 100% mozzarella cheese with garlic sprinkle for extra flavour hit.",
-            "id": "128412969",
-            "imageId": "c53ce130542adf692e861b4bf9756883",
-            "name": "Cheezy Mushroom Magic - Personal",
-            "price": 31900
-          },
-          {
-            "description": "Yummy Chicken Pepperoni & 100% mozzarella cheese with signature pan sauce. Its a classic!",
-            "id": "99712922",
-            "imageId": "gdz44c9hirco09bdafoq",
-            "name": "Chicken Pepperoni - Personal",
-            "price": 37900
-          },
-          {
-            "description": "Serves 1 | Pizza topped with Chicken n Cheese Sausages & crunchy Onions, flavourful pan sauce and 100% mozzarella cheese.",
-            "id": "111745331",
-            "imageId": "aylqpxx08pltowbzxhd3",
-            "name": "Chicken Sausage - Personal",
-            "price": 25900
-          },
-          {
-            "description": "Mouth-watering Chicken Tikka, crunchy Onion & Tomato with delicious Tandoori Sauce and 100% mozzarella cheese.",
-            "id": "99712926",
-            "imageId": "juplqft4tmub5hqocwxk",
-            "name": "Chicken Tikka - Personal",
-            "price": 37900
-          },
-          {
-            "description": "Serves 1 | A combination of juicy Sweet Corn & 100% mozzarella cheese with flavourful signature pan sauce.",
-            "id": "99712869",
-            "imageId": "ckbnw98n6tffy50wvuzm",
-            "name": "Corn & Cheese - Personal",
-            "price": 21900
-          },
-          {
-            "description": "Serves 1 | Loaded with Herbed Onion & Green capsicum, Sweet Corn, Tomato & Mushroom with signature pan sauce and 100% mozzarella cheese. It's a feast you can't refuse.",
-            "id": "99712904",
-            "imageId": "fqzol9tuftv5aelg0v35",
-            "name": "Country Feast - Personal",
-            "price": 31900
-          },
-          {
-            "description": "Dhaba style chicken keema masala, with green chiili, crunchy onion with flavourful pan sauce, 100 % mozzarella cheese & a generous drizzle of mint mayo",
-            "id": "128412981",
-            "imageId": "d9eddb1993da4e5dc65ef2ceaa8503f7",
-            "name": "Dhabe Da Keema - Personal",
-            "price": 31900
-          },
-          {
-            "description": "Pizza topped with our herb-infused signature pan sauce and 100% mozzarella cheese. A classic treat for all cheese lovers out there!",
-            "id": "99712860",
-            "imageId": "dpventcrozvfni0lqb10",
-            "name": "Margherita - Personal",
-            "price": 16900
-          },
-          {
-            "description": "A treat for all makhni lovers. Spiced paneer, onion, juicy red bell peppers with our new flavourful makhni sauce, topped with 100% mozzarella cheese and buttery spice sprinkle",
-            "id": "128412978",
-            "imageId": "bf62afee565475fb92a204206321a41c",
-            "name": "Mazedar Makhni Paneer - Personal",
-            "price": 37900
-          }
-        ]
-      }
-    ],
-    "43836": [
-      {
-        "title": "Sharing Combos",
-        "itemCards": [
-          {
-            "description": "Stay home, stay safe and share a combo- 2 McAloo Tikki Burgers + 2 Fries (L)",
-            "id": "52431077",
-            "imageId": "ea7ba594c7d77cb752de9a730fbcb3bf",
-            "name": "2 McAloo Tikki + 2 Fries (L)",
-            "price": 31905
-          },
-          {
-            "description": "Tender and juicy chicken patty cooked to perfection, with creamy mayonnaise and crunchy lettuce adding flavour to each bite. Served with 6 Pc Nuggets and Coke.",
-            "id": "63149161",
-            "imageId": "934194567f9c231dc46dccf2d4e6d415",
-            "name": "6 Pc Nuggets + McChicken + Coke",
-            "price": 32953
-          },
-          {
-            "description": "Flat 15% Off on McSpicy Chicken Burger + McChicken Burger + Fries (M)",
-            "id": "102107203",
-            "imageId": "630a62321ae747b1c3a60a550387c84b",
-            "name": "McSpicy Chicken Burger + McChicken Burger + Fries (M)",
-            "price": 37524
-          },
-          {
-            "description": "Flat 15% Off on Corn & Cheese Burger +McVeggie Burger+Fries (M)",
-            "id": "112713361",
-            "imageId": "a6fae39f2d1210d4746ffb3b5cc474f9",
-            "name": "Corn & Cheese Burger +McVeggie Burger+Fries (M)",
-            "price": 33238
-          },
-          {
-            "description": "Get the best value in your meal for 2. Save big on your favourite sharing meal - 2 McChicken Burger + 2 Fries (M) + Veg Pizza McPuff",
-            "id": "117965851",
-            "imageId": "b57153898abed2127d7217c2ee3e9e4b",
-            "name": "2 McChicken Burger\t + 2 Fries (M)\t + Veg Pizza McPuff",
-            "price": 38762
-          },
-          {
-            "description": "Get the best value in your meal for 2. Save big on your favourite sharing meal - 2 McSpicy Chicken Burger + 2 Fries (M) + Veg Pizza McPuff",
-            "id": "117965852",
-            "imageId": "e62aea3ba1cd5585a76004f59cd991e5",
-            "name": "2 McSpicy Chicken Burger  + 2 Fries (M)  + Veg Pizza McPuff",
-            "price": 49048
-          },
-          {
-            "description": "Get the best value in your meal for 2. Save big on your favourite sharing meal - 2 McVeggie Burger + 2 Fries (M) + Veg Pizza McPuff",
-            "id": "117965853",
-            "imageId": "1ff73fc5aa656a10da5801469da3327a",
-            "name": "2 McVeggie Burger\t + 2 Fries (M)\t \t+ Veg Pizza McPuff",
-            "price": 38762
-          }
-        ]
-      },
-      {
-        "title": "Jain Friendly",
-        "itemCards": [
-          {
-            "description": "Enjoy a combo of the Jain friendly, McCheese Burger Veg, Classic corn, Cheese Dip, McFlurry Oreo (Small) with a beverage of your choice in a delivery friendly, resuable bottle.",
-            "id": "117965854",
-            "imageId": "49e13df87ab3602afa703792ee63fcd3",
-            "name": "Jain Meal - McCheese Burger Veg",
-            "price": 39810
-          },
-          {
-            "description": "Find pure indulgence in our Veg McCheese Burger, featuring a sinfully oozing Cheese veg patty, roasted chipotle sauce, jalapenos & lettuce.",
-            "id": "125370267",
-            "imageId": "a2bd9588c189a6e47f67b8f43732cbe2",
-            "name": "McCheese Burger Veg.",
-            "price": 26190
-          }
-        ]
-      },
-      {
-        "title": "Fried Chicken & Wings",
-        "itemCards": [
-          {
-            "description": "Try the new McSpicy Fried chicken that is juicy, crunchy and spicy to the last bite!",
-            "id": "52364329",
-            "imageId": "18cdeabc815b748622911259c3b7df1d",
-            "name": "McSpicy Fried Chicken - 1 PC",
-            "price": 12000
-          },
-          {
-            "description": "Two pieces of the new McSpicy Fried chicken that are juicy, crunchy and spicy to the last bite!",
-            "id": "112713376",
-            "imageId": "fcbc9e5bc45ebf0fde9ac2da44032035",
-            "name": "2 PC Mcspicy Fried chicken",
-            "price": 22762
-          },
-          {
-            "description": "Enjoy 5 pc of McSpicy Fried chicken + 2 Coke - perfect sharing meal for a party!",
-            "id": "112713380",
-            "imageId": "54bafa953686424e5af0f9a0a20ef1c9",
-            "name": "5 pc of McSpicy Fried chicken Bucket + 2 Coke",
-            "price": 53334
-          },
-          {
-            "description": "Share your love for chicken with the Friendship box: 5 pcs McSpicy Fried chicken",
-            "id": "119984440",
-            "imageId": "5ceceaea3e7052d91c7d87ddd2b65804",
-            "name": "5 pcs McSpicy Fried Chicken Bucket",
-            "price": 42476
-          },
-          {
-            "description": "Try the juicy, spicy, crunchy McSpicy Chicken Wings - 2 Pc",
-            "id": "124343012",
-            "imageId": "6e4918a1cf1113361edba3ed33519ffc",
-            "name": "McSpicy Chicken Wings- 2 Pc",
-            "price": 8000
-          },
-          {
-            "description": "Try the juicy, spicy, crunchy McSpicy Chicken Wings - 4 Pc",
-            "id": "124343013",
-            "imageId": "7122300975cc9640e84cdc7e7c74e042",
-            "name": "McSpicy Chicken Wings- 4 Pc",
-            "price": 15143
-          },
-          {
-            "description": "Share your love for chicken with the Duet box: 4 pcs McSpicy Fried chicken + 1 coke",
-            "id": "125972272",
-            "imageId": "77ce9851cf897e3d82779977a4848c08",
-            "name": "4 pcs McSpicy Fried chicken Bucket + 1 Coke",
-            "price": 47619
-          },
-          {
-            "description": "Enjoy McSpicy Fried Chicken 10 Pc + 2 Fries (L) + 4 Coke - perfect sharing meal for a party",
-            "id": "125972273",
-            "imageId": "225d73dc44b15869fe737798a154fba7",
-            "name": "McSpicy Fried Chicken 10 Pc Bucket + 2 Fries (L) + 4 Coke",
-            "price": 123906
-          }
-        ]
-      },
-      {
-        "title": "Burgers & Wraps",
-        "itemCards": [
-          {
-            "description": "Two tender & juicy chicken patties coated in spicy, crispy batter topped with a creamy sauce & crispy shredded lettuce will have you craving for more.",
-            "id": "53520883",
-            "imageId": "314b5b5786f73746de4880602723a913",
-            "name": "McSpicy Chicken Double Patty Burger",
-            "price": 21497
-          },
-          {
-            "description": "Two Tender and juicy chicken patties cooked to perfection, with creamy mayonnaise and crunchy lettuce adding flavour to each bite.",
-            "id": "53520888",
-            "imageId": "af88f46a82ef5e6a0feece86c349bb00",
-            "name": "McChicken Double Patty Burger",
-            "price": 19029
-          },
-          {
-            "description": "Two delectable patties filled with potatoes, peas, carrots and Indian spices. Packed into toasted sesame buns with crispy lettuce and mayonnaise.",
-            "id": "53520891",
-            "imageId": "2d5062832f4d36c90e7dfe61ef48e85a",
-            "name": "McVeggie Double Patty Burger",
-            "price": 19029
-          },
-          {
-            "description": "The world's favorite Indian burger! Two Crunchy potato and peas patties topped with Tom Mayo, tomatoes and onions.",
-            "id": "53520909",
-            "imageId": "ef569f74786e6344883a1decdd193229",
-            "name": "McAloo Tikki Double Patty Burger",
-            "price": 7509
-          },
-          {
-            "description": "Savor our filling 11 layer burger! Double the indulgence with 2 corn & cheese patties, along with jalape?os, onion, cheese, tomatoes, lettuce, and spicy Cocktail sauce.",
-            "id": "57683215",
-            "imageId": "7a248018e36c112eb3fb0b877b4b06f2",
-            "name": "Veg Maharaja Mac Burger",
-            "price": 23143
-          },
-          {
-            "description": "The World's favourite Indian burger! A crispy Aloo patty, tomato mayo sauce & onions",
-            "id": "58150140",
-            "imageId": "b13811eeee71e578bc6ca89eca0ec87f",
-            "name": "McAloo Tikki Burger",
-            "price": 6952
-          },
-          {
-            "description": "Savour your favorite spiced veggie patty, lettuce, mayo, between toasted sesame buns in every bite",
-            "id": "58150150",
-            "imageId": "a25f25f74a6a6068e55fcbced1580084",
-            "name": "McVeggie Burger",
-            "price": 14914
-          }
-        ]
-      },
-      {
-        "title": "Meals",
-        "itemCards": [
-          {
-            "description": "Your favorite Double Patty McAloo Tikki Burger + Fries (M) + Drink of your choice.",
-            "id": "53956835",
-            "imageId": "1bcd9724fca70871a0e1fdc298c1f0e0",
-            "name": "McAloo Tikki Double Patty Meal (M)",
-            "price": 22526
-          },
-          {
-            "description": "Your favourite Double Patty McVeggie Burger + Fries (M) + Drink of your choice",
-            "id": "53956807",
-            "imageId": "b13dfa207df1045eae030442555fb69c",
-            "name": "McVeggie Double Patty Meal (M)",
-            "price": 24583
-          },
-          {
-            "description": "Your favorite Double Patty McChicken Burger + Fries (M) + Drink of your choice",
-            "id": "53956802",
-            "imageId": "e8a8f43ee29a3b97d2fac37e89648eac",
-            "name": "McChicken Double Patty Meal (M)",
-            "price": 24583
-          },
-          {
-            "description": "Goodness of TWO scrumptiously filling McSpicy Chicken Patties + Fries (M) + Drink of your choice",
-            "id": "53956692",
-            "imageId": "91ed96b67df6e630a6830fc2e857b5b1",
-            "name": "McSpicy Chicken Double Patty Meal (M)",
-            "price": 36926
-          },
-          {
-            "description": "Scrumptiously filling McSpicy Chicken Burger + Fries (M) + Drink of your choice.",
-            "id": "58150212",
-            "imageId": "9b586c092f1c790228ac2198cf111bfd",
-            "name": "McSaver McSpicy Chicken Meal",
-            "price": 25611
-          },
-          {
-            "description": "Relish on a juicy Chicken Kebab Burger + Fries (M) + Drink of your Choice on this meal. Order now to experience a customizable, delicious meal.",
-            "id": "58150217",
-            "imageId": "b22592af2edd8c7046fcc74d10a66ace",
-            "name": "McSaver Chicken Kebab Burger Meal",
-            "price": 20469
-          },
-          {
-            "description": "Enjoy a double decker Veg Maharaja Mac+ Fries (M) + Drink of your Choice . Order now to experience a customizable, delicious meal.",
-            "id": "58150229",
-            "imageId": "6180c6720b3e29c715f1cb497cf8cdb2",
-            "name": "McSaver Veg Maharaja Mac Burger Combo",
-            "price": 38476
-          }
-        ]
-      },
-      {
-        "title": "Coffee & Beverages (Hot and Cold)",
-        "itemCards": [
-          {
-            "description": "The perfect companion to your burger, fries and everything nice.",
-            "id": "68302584",
-            "imageId": "a1afed29afd8a2433b25cc47b83d01da",
-            "name": "Coke",
-            "price": 10286
-          },
-          {
-            "description": "The perfect diet companion to your burger, fries and everything nice. Regular serving size, 300 Ml.",
-            "id": "68962005",
-            "imageId": "8d6a37c4fc69bceb66b6a66690097190",
-            "name": "Coke zero can",
-            "price": 6667
-          },
-          {
-            "description": "Quench your thirst with the Vedica Zen Water Bottle",
-            "id": "69017952",
-            "imageId": "6da8fa6b64c806e89058c87c0a85e759",
-            "name": "Vedica Zen Water Bottle",
-            "price": 4762
-          },
-          {
-            "description": "Add a zest of refreshing orange to your meal.",
-            "id": "69678412",
-            "imageId": "7d662c96bc13c4ac33cea70c691f7f28",
-            "name": "Fanta",
-            "price": 10286
-          },
-          {
-            "description": "Made with puree, pulp & juice from 6 delicious fruits",
-            "id": "78479525",
-            "imageId": "8e455d39bbbd8e4107b2099da51f3933",
-            "name": "Mixed Fruit Beverage",
-            "price": 7524
-          },
-          {
-            "description": "The perfect companion to your burger, fries and everything nice.",
-            "id": "83840289",
-            "imageId": "46e03daf797857bfbce9f9fbb539a6aa",
-            "name": "Sprite",
-            "price": 10286
-          },
-          {
-            "description": "A classic American Mud Pie gets a makeover; wonderfully creamy and rich with Chocolate, this shake is more delicious than it sounds! Now in a ne, convenient and delivery friendly packaging",
-            "id": "112620458",
-            "imageId": "d05081a8a351a3b137bf4db4d003a73c",
-            "name": "American Mud Pie",
-            "price": 20190
-          }
-        ]
-      },
-      {
-        "title": "Fries & Sides",
-        "itemCards": [
-          {
-            "description": "The perfect, taste bud tingling partner for our World Famous Fries. Shake Shake, and dive in!",
-            "id": "58150151",
-            "imageId": "df3edfc74f610edff535324cc53a362a",
-            "name": "Piri Piri Spice Mix",
-            "price": 2381
-          },
-          {
-            "description": "Crispy brown crust with a generous filling of rich tomato sauce, mixed with carrots, bell peppers, beans, onions and mozzarella. Served HOT.",
-            "id": "58150175",
-            "imageId": "abe4b8cdf0f1bbfd1b9a7a05be3413e8",
-            "name": "Veg Pizza McPuff",
-            "price": 5905
-          },
-          {
-            "description": "World Famous Fries, crispy golden, fried to perfection and lightly salted. Also known as happiness.",
-            "id": "65329668",
-            "imageId": "5a18fbbff67076c9a4457a6b220a55d9",
-            "name": "Fries (R)",
-            "price": 8571
-          },
-          {
-            "description": "World Famous Fries, crispy golden, fried to perfection and lightly salted. Also known as happiness.",
-            "id": "65329669",
-            "imageId": "8a61e7fd97c454ea14d0750859fcebb8",
-            "name": "Fries (M)",
-            "price": 11905
-          },
-          {
-            "description": "World Famous Fries, crispy golden, fried to perfection and lightly salted. Also known as happiness.",
-            "id": "65329670",
-            "imageId": "a4b3002d0ea35bde5e5983f40e4ebfb4",
-            "name": "Fries (L)",
-            "price": 13905
-          },
-          {
-            "description": "Looking for a sauce to complement your meal? Look no further.",
-            "id": "67458864",
-            "imageId": "7db5533db29a4e9d2cc033f35c5572bc",
-            "name": "Tomato Ketchup Sachet",
-            "price": 95
-          },
-          {
-            "description": "9 pieces of our iconic crispy, golden fried Chicken McNuggets!",
-            "id": "68261451",
-            "imageId": "1ca7abb262e8880f5cb545d0d2f9bb9b",
-            "name": "Chicken McNuggets - 9 Pcs",
-            "price": 20858
-          }
-        ]
-      },
-      {
-        "title": "Desserts",
-        "itemCards": [
-          {
-            "description": "Delicious soft serve meets crumbled oreo cookies, a match made in dessert heaven. Perfect for one.",
-            "id": "68302588",
-            "imageId": "a28369e386195be4071d9cf5078a438d",
-            "name": "Mcflurry Oreo Small",
-            "price": 9143
-          },
-          {
-            "description": "Delicious soft serve meets crumbled oreo cookies, a match made in dessert heaven. Share it, if you can.",
-            "id": "112713467",
-            "imageId": "f966500ed8b913a16cfdb25aab9244e4",
-            "name": "McFlurry Oreo Medium",
-            "price": 12857
-          },
-          {
-            "description": "A sinful delight, soft serve topped with delicious, gooey hot chocolate fudge. Always grab an extra spoon.",
-            "id": "112713610",
-            "imageId": "9c8958145495e8f2cf70470195f7834a",
-            "name": "Soft Serve Hot Fudge (M)",
-            "price": 6476
-          },
-          {
-            "description": "The cool vanilla soft serve ice cream with twirls of strawberry syrup.",
-            "id": "112713616",
-            "imageId": "d7bd22aa47cffdcdde2d5b6223fde06e",
-            "name": "Soft Serve Strawberry (M)",
-            "price": 6476
-          },
-          {
-            "description": "Enjoy the classic McFlurry Oreo goodness with a drizzle of hot fudge sauce with the Oreo Sundae!",
-            "id": "121923952",
-            "imageId": "3696da86802f534ba9ca68bd8be717ab",
-            "name": "Oreo Sundae Medium",
-            "price": 7143
-          },
-          {
-            "description": "A sweet treat to suit your every mood",
-            "id": "123193874",
-            "imageId": "f513cc8c35cadd098835fb5b23c03561",
-            "name": "Black Forest McFlurry Medium",
-            "price": 11524
-          },
-          {
-            "description": "A sweet treat to suit your every mood",
-            "id": "123193876",
-            "imageId": "f3c4415f38ed3982e25c9cd4665840fc",
-            "name": "Blueberry Cheese Cake",
-            "price": 22857
-          }
-        ]
-      },
-      {
-        "title": "Happy Meals",
-        "itemCards": [
-          {
-            "description": "Enjoy a combo of McChicken Burger + Sweet Corn + B Natural Mixed Fruit Beverage + Book",
-            "id": "58150136",
-            "imageId": "2b7356d14d1c9dc38d20ab8a30247834",
-            "name": "McChicken Happy Meal",
-            "price": 32953
-          },
-          {
-            "description": "Enjoy a combo of McVeggie Burger + Sweet Corn + B Natural Mixed Fruit Beverage + Book",
-            "id": "58150137",
-            "imageId": "ca05cb0597101eb8357cda385b92b584",
-            "name": "McVeggie Happy Meal",
-            "price": 30667
-          },
-          {
-            "description": "Enjoy a combo of McAloo Tikki Burger + Sweet Corn + B Natural Mixed Fruit Beverage + Book",
-            "id": "58150141",
-            "imageId": "98b4674a979d6faf528f05e65e6799f2",
-            "name": "McAloo Tikki Happy Meal",
-            "price": 21334
-          },
-          {
-            "description": "5 McChicken Burger + 5 Sweet Corn + 5 B Natural Mixed Fruit Beverage + 5 Soft Serve (M) + Book",
-            "id": "78479522",
-            "imageId": "31da1776bf9e74beea809aadc61cf1da",
-            "name": "Birthday Party Package - McChicken",
-            "price": 221144
-          },
-          {
-            "description": "5 McVeggie Burger + 5 Sweet Corn + 5 B Natural Mixed Fruit Beverage + 5 Soft Serve (M) + Book",
-            "id": "78479523",
-            "imageId": "567411605ac9c72680aa742e17fb83d5",
-            "name": "Birthday Party Package - McVeggie",
-            "price": 221144
-          },
-          {
-            "description": "Enjoy a combo of McEgg Burger  + Sweet Corn + B Natural Mixed Fruit Beverage + Book",
-            "id": "78479524",
-            "imageId": "7a328a58de3b5e209116682223e5d94d",
-            "name": "McEgg Happy Meal",
-            "price": 23905
-          },
-          {
-            "description": "Enjoy a combo of  2 Pc Chicken Nuggets + Sweet Corn+ B Natural Mixed Fruit Beverage + Book",
-            "id": "126294828",
-            "imageId": "78924991d845b01f4413bafd169fb8bc",
-            "name": "2 Pc Chicken Nuggets HM",
-            "price": 22000
-          },
-          {
-            "description": "Enjoy a combo of  4 Pc Chicken Nuggets + Sweet Corn+ B Natural Mixed Fruit Beverage + Book",
-            "id": "126294829",
-            "imageId": "d85f06a7806ccad6994a3a4badf90135",
-            "name": "4 Pc Chicken Nuggets HM",
-            "price": 26762
-          }
-        ]
-      },
-      {
-        "title": "McSaver Combos",
-        "itemCards": [
-          {
-            "description": "Tender and juicy chicken patty coated in spicy, crispy batter topped with a creamy sauce and crispy shredded lettuce will have you craving for more. Served with Veg Pizza McPuff",
-            "id": "33933608",
-            "imageId": "fb4b9d4775505e82d05d6734ef3e2491",
-            "name": "Pizza Mc Puff + McSpicy Chicken",
-            "price": 18952
-          },
-          {
-            "description": "The ultimate chicken combo made just for you. Get the top selling McChicken with the McSpicy Chicken Burger.",
-            "id": "50287486",
-            "imageId": "006d51070b0ab9c839a293b87412541c",
-            "name": "McChicken + McSpicy Chicken Burger",
-            "price": 29143
-          },
-          {
-            "description": "A delectable patty filled with potatoes, peas, carrots and tasty Indian spices. Topped with crispy lettuce, mayonnaise, and packed into toasted sesame buns makes our iconic McVeggie. Make it a combo with our top selling McAloo Tikki Burger.",
-            "id": "50287497",
-            "imageId": "1f4d583548597d41086df0c723560da7",
-            "name": "McVeggie + McAloo Tikki Burger",
-            "price": 18952
-          },
-          {
-            "description": "Tender and juicy chicken patty cooked to perfection, with creamy mayonnaise and crunchy lettuce adding flavour to each bite. Served with Medium Fries.",
-            "id": "63149158",
-            "imageId": "f2db3e452c63d643cc735371537e49c7",
-            "name": "McChicken + Fries (M)",
-            "price": 18000
-          },
-          {
-            "description": "A delectable patty filled with potatoes, peas, carrots and tasty Indian spices. Topped with crispy lettuce, mayonnaise, and packed into toasted sesame buns. Served with Medium Fries.",
-            "id": "63149159",
-            "imageId": "d14cc495747a172686ebe43e675bc941",
-            "name": "McVeggie + Fries (M)",
-            "price": 18952
-          },
-          {
-            "description": "The ultimate veg combo made just for you. Get the top selling McAloo Tikki served with Veg Pizza McPuff and Coke.",
-            "id": "63149162",
-            "imageId": "9f0269a2d28f4918a3b07f63a487f26d",
-            "name": "McAloo Tikki + Veg Pizza McPuff + Coke",
-            "price": 16096
-          },
-          {
-            "description": "The perfect companion to your burger, fries and everything nice. Double it up with this combo.",
-            "id": "65035612",
-            "imageId": "2d7540e92ac04c0c0823e9f4f029e2dd",
-            "name": "2 Coke",
-            "price": 16476
-          }
-        ]
-      },
-      {
-        "title": "McBreakfast",
-        "itemCards": [
-          {
-            "description": "Sizzling aromatic sausage accompanied by the freshly steamed egg between the two slices of fresh English muffins + Coffee (R)",
-            "id": "33428071",
-            "imageId": "55f41cd2962cd5162adf657a949fab80",
-            "name": "Sausage & Egg McMuffin 2 pc Meal",
-            "price": 26953
-          },
-          {
-            "description": "Sizzling aromatic sausage patty between the two slices of fresh English muffins + Coffee (R)",
-            "id": "33428076",
-            "imageId": "c57b5327ffeb8d44f90982ef13811c78",
-            "name": "Sausage McMuffin 2 pc Meal",
-            "price": 25333
-          },
-          {
-            "description": "Freshly fried golden brown potatoes that melt in your mouth.",
-            "id": "58150161",
-            "imageId": "534f18e69e28bb060a85d30e03a102e4",
-            "name": "Hashbrown",
-            "price": 5333
-          },
-          {
-            "description": "Make your mornings Cheese with the new Double Cheese McMuffin. Shredded onion, Jalapenos topped with Cheese (and more cheese) layered between toasted and buttered Muffin buns",
-            "id": "115693022",
-            "imageId": "8bcca26adae8fa3e5593e1c8405dcac9",
-            "name": "Double Cheese McMuffin- Sandwich",
-            "price": 10095
-          },
-          {
-            "description": "Try the delcious combo of Double Cheese McMuffin, Crispy Hashbrown and a beverage of your choice (S) to brighten up your day.",
-            "id": "115693023",
-            "imageId": "3a91832849055b8770ec4ef2bd27fd03",
-            "name": "Double Cheese McMuffin 3 Pc Meal",
-            "price": 24286
-          },
-          {
-            "description": "Fluffy soft egg topped with Cheese served between English muffins",
-            "id": "115693024",
-            "imageId": "39bb3c273b440ee352b738fa1f00c842",
-            "name": "Egg & Cheese McMuffin - Sandwich",
-            "price": 10095
-          },
-          {
-            "description": "Fluffy soft egg topped with cheese served between English muffins. Served with Hashbrown and a coffee of your choice.",
-            "id": "115693025",
-            "imageId": "6e3ebff1d0678c7678e4fd2401f799ae",
-            "name": "Egg & Cheese McMuffin 3 Pc Meal",
-            "price": 24286
-          }
-        ]
-      }
-    ],
-    "588619": [
-      {
-        "title": "Recommended",
-        "itemCards": [
-          {
-            "description": "Crunchy chicken topped with cheese, spicy sauce, veggies & herbs. All-chicken-no-crust pizza! [Serves 1]",
-            "id": "108268023",
-            "imageId": "5108c304c25e2360d28588a461e1f210",
-            "name": "Chicken Chizza",
-            "price": 31905
-          },
-          {
-            "description": "All-chicken-no-crust Chizza, Choco Lava Cake and a Pepsi PET 475ml at a deal price [Serves 1-2]",
-            "id": "127997680",
-            "imageId": "e4d425ed2f059e4e12c8b905f3bc7d99",
-            "name": "Chicken Chizza & Dessert Meal",
-            "price": 46857
-          },
-          {
-            "description": "1 Crunchy all-chicken-no-crust Chizza served with Pepsi PET 475ml [Serves 1]",
-            "id": "111580130",
-            "imageId": "aa3caff35ff99fab3dadcd1121a962ce",
-            "name": "Chicken Chizza & Pepsi Combo",
-            "price": 37619
-          },
-          {
-            "description": "2 Crunchy all-chicken-no-crust Chizza topped with cheese, spicy sauce, veggies & herbs [Serves 2-3]",
-            "id": "108268020",
-            "imageId": "302d1fbc468a89dbc497f3181827a7f5",
-            "name": "Duo Chicken Chizza",
-            "price": 62857
-          },
-          {
-            "description": "All-chicken-no-crust Chizza, 2 Pc Hot Wings and a Pepsi PET 475ml at a deal price [Serves 1-2]",
-            "id": "127997677",
-            "imageId": "120374790af673aae76c5a5d883d45ad",
-            "name": "Chicken Chizza & Wings Meal",
-            "price": 45905
-          },
-          {
-            "description": "New Plain Rice Bowlz",
-            "id": "129529019",
-            "imageId": "38c021b7322ea7451ad6668b1e0706be",
-            "name": "Plain Rice Bowlz",
-            "price": 13905
-          },
-          {
-            "description": "Deal Savings of Rs. 118 on 2 units of Popcorn Chicken Rice Bowlz and 8 Pc Hot Wings [Serves 3-4]",
-            "id": "129529018",
-            "imageId": "8239f998f8dd9b79b00ed459ff995ca0",
-            "name": "Popcorn Chicken Rice Bowlz & Wings Meal",
-            "price": 69905
-          }
-        ]
-      },
-      {
-        "title": "CHICKEN CHIZZA",
-        "itemCards": [
-          {
-            "description": "Crunchy chicken topped with cheese, spicy sauce, veggies & herbs. All-chicken-no-crust pizza! [Serves 1]",
-            "id": "108268023",
-            "imageId": "5108c304c25e2360d28588a461e1f210",
-            "name": "Chicken Chizza",
-            "price": 31905
-          },
-          {
-            "description": "All-chicken-no-crust Chizza, Choco Lava Cake and a Pepsi PET 475ml at a deal price [Serves 1-2]",
-            "id": "127997680",
-            "imageId": "e4d425ed2f059e4e12c8b905f3bc7d99",
-            "name": "Chicken Chizza & Dessert Meal",
-            "price": 46857
-          },
-          {
-            "description": "1 Crunchy all-chicken-no-crust Chizza served with Pepsi PET 475ml [Serves 1]",
-            "id": "111580130",
-            "imageId": "aa3caff35ff99fab3dadcd1121a962ce",
-            "name": "Chicken Chizza & Pepsi Combo",
-            "price": 37619
-          },
-          {
-            "description": "2 Crunchy all-chicken-no-crust Chizza topped with cheese, spicy sauce, veggies & herbs [Serves 2-3]",
-            "id": "108268020",
-            "imageId": "302d1fbc468a89dbc497f3181827a7f5",
-            "name": "Duo Chicken Chizza",
-            "price": 62857
-          },
-          {
-            "description": "All-chicken-no-crust Chizza, 2 Pc Hot Wings and a Pepsi PET 475ml at a deal price [Serves 1-2]",
-            "id": "127997677",
-            "imageId": "120374790af673aae76c5a5d883d45ad",
-            "name": "Chicken Chizza & Wings Meal",
-            "price": 45905
-          }
-        ]
-      },
-      {
-        "title": "RICE BOWLZ",
-        "itemCards": [
-          {
-            "description": "New Plain Rice Bowlz",
-            "id": "129529019",
-            "imageId": "38c021b7322ea7451ad6668b1e0706be",
-            "name": "Plain Rice Bowlz",
-            "price": 13905
-          },
-          {
-            "description": "Deal Savings of Rs. 118 on 2 units of Popcorn Chicken Rice Bowlz and 8 Pc Hot Wings [Serves 3-4]",
-            "id": "129529018",
-            "imageId": "8239f998f8dd9b79b00ed459ff995ca0",
-            "name": "Popcorn Chicken Rice Bowlz & Wings Meal",
-            "price": 69905
-          },
-          {
-            "description": "Aromatic Veg rice bowl mixed with spicy gravy [serves 1]",
-            "id": "129529017",
-            "imageId": "b55628a57b4ae927013617605d4db6e6",
-            "name": "Veg Rice Bowlz",
-            "price": 19905
-          },
-          {
-            "description": "Aromatic Poprcorn Chicken rice bowl mixed with spicy gravy [serves 1]",
-            "id": "129529016",
-            "imageId": "9e57b3b9478a4a0b114b8ba4e1b5be89",
-            "name": "Popcorn Chicken Rice Bowlz",
-            "price": 22952
-          },
-          {
-            "description": "Aromatic Smoky Red Chicken rice bowl mixed with spicy gravy [serves 1]",
-            "id": "129529015",
-            "imageId": "3e243b6fbc280b8891643b1d3b7836f6",
-            "name": "Smoky Red Chicken Rice Bowlz",
-            "price": 22952
-          },
-          {
-            "description": "Aromatic Hot & Crispy Chicken rice bowl mixed with spicy gravy [serves 1]",
-            "id": "129529014",
-            "imageId": "a74de1a2b59bf60d616d458b7e78bd1a",
-            "name": "Classic Chicken Rice Bowlz",
-            "price": 22952
-          },
-          {
-            "description": "Save Rs. 30 on aromatic Hot & Crispy Chicken rice bowl mixed with spicy gravy [serves 2]",
-            "id": "129529012",
-            "imageId": "30eb3662da29c0e469299b2149aa4600",
-            "name": "Duo Popcorn Chicken Rice Bowlz",
-            "price": 42857
-          }
-        ]
-      },
-      {
-        "title": "BURGERS",
-        "itemCards": [
-          {
-            "description": "New Spicy Zinger Burger with Medium Popcorn and Pepsi PET 475ml at a deal price",
-            "id": "122151318",
-            "imageId": "6cce1149da3fbc6f78f0857a1863332a",
-            "name": "Spicy Zinger Burger and Popcorn Meal",
-            "price": 43900
-          },
-          {
-            "description": "New Zinger Pro premium Burger with Medium Popcorn and Pepsi PET 475ml at a deal price",
-            "id": "122151315",
-            "imageId": "9b153dffd3829fb695a66e4fd7182b6c",
-            "name": "Zinger Pro Burger & Popcorn Meal",
-            "price": 45905
-          },
-          {
-            "description": "New Spicy Zinger Burger with 1 Pc Hot & Crispy and Pepsi PET 475ml at a deal price",
-            "id": "122151306",
-            "imageId": "97d830dff091ac86dd037033d9560b01",
-            "name": "Spicy Zinger Burger and Chicken Meal",
-            "price": 37900
-          },
-          {
-            "description": "Premium burger with crunchy chicken, Mexican Habanero sauce, cheese, tomato & onion",
-            "id": "122151304",
-            "imageId": "36901b422d759c19c2799c10eeb416c8",
-            "name": "Zinger Pro Burger",
-            "price": 23905
-          },
-          {
-            "description": "New Zinger Pro premium Burger with 1 Pc Hot & Crispy and Pepsi PET 475ml at a deal price",
-            "id": "122151302",
-            "imageId": "6bafd5f307841d1025401757c7be3521",
-            "name": "Zinger Pro Burger & Chicken Meal",
-            "price": 39905
-          },
-          {
-            "description": "Signature burger with a crunchy chicken fillet, cheese slice, veggies & a delicious mayo sauce",
-            "id": "122151297",
-            "imageId": "418e7dc325cf65d7c1d9faab2e646421",
-            "name": "Chicken Zinger Burger - Classic with Cheese",
-            "price": 22405
-          },
-          {
-            "description": "Chicken zinger with a?delicious tandoori sauce & cheese slice",
-            "id": "122151293",
-            "imageId": "7af6cdbf96ad445ebfce65f568fd0adf",
-            "name": "Chicken Zinger Burger - Tandoori with Cheese",
-            "price": 23357
-          }
-        ]
-      },
-      {
-        "title": "PERI PERI CHICKEN STRIPS & LEG PC (UP TO 25%)",
-        "itemCards": [
-          {
-            "description": "Save 24% with the indulging 10 Piece Peri Peri Boneless Strips and 2 Dips [Serves 2-3]",
-            "id": "113591608",
-            "imageId": "a0feef07b2a9d72ba02f4a7d53e46948",
-            "name": "Peri Peri 10 Pc Chicken Strips & 2 Dips",
-            "price": 49905
-          },
-          {
-            "description": "Save Rs 120 on 5 Spicy Peri Peri Leg Pieces, paired with 2 delicous dips (20gm each) [serves 2]",
-            "id": "124525871",
-            "imageId": "561e47ac42b2e426ec03e46d7d09b01b",
-            "name": "Peri Peri Chicken 5 Leg Piece & 2 Dips",
-            "price": 51905
-          },
-          {
-            "description": "Save Rs. 334 on 10 Spicy Peri Peri Leg Pieces & 4 Dips (20gm each) [serves 3-4]",
-            "id": "124525870",
-            "imageId": "ye1imbdqn5efc7vheuah",
-            "name": "Peri Peri 10 Leg Pc & 4 Dips",
-            "price": 94857
-          },
-          {
-            "description": "Save 16% with on savouring 6 Spicy Peri Peri chicken boneless strips [serves 2]",
-            "id": "99896532",
-            "imageId": "qsmfyjef2hbu05emuu2c",
-            "name": "Peri Peri Chicken Strips - 6 Pc",
-            "price": 29905
-          }
-        ]
-      },
-      {
-        "title": "BUCKETS/ MEALS FOR 1-2 (UP TO 15% OFF)",
-        "itemCards": [
-          {
-            "description": "Flat Rs. 115 off with this variety combo of 2pc Hot & Crispy Chicken, 2 pc Smoky Red Grilled Chicken & a Large Chicken Popcorn [serves 2-3]",
-            "id": "99896550",
-            "imageId": "wmn6qpsqazt1ln8hylum",
-            "name": "Chicken Bucket for Two",
-            "price": 59905
-          },
-          {
-            "description": "Save Rs. 57 on Deal combo of 2 chicken value burgers, 2 pc Hot & Crispy, 2 dips (20gm each) & a chilled Pepsi PET 475 ml [Serves 1-2]",
-            "id": "99896522",
-            "imageId": "m038pslx2jfyqgdmlgch",
-            "name": "Chicken Krisper Burger Combo",
-            "price": 53905
-          },
-          {
-            "description": "Save Rs. 63 on this crowd favorite combo of 4 Hot Wings, 2 Chicken Peri Peri Boneless Strips, a Reg Popcorn, medium fries & a chilled Pepsi PET 475ml [serves 2 ]",
-            "id": "99896553",
-            "imageId": "kt0vzw4bzztarxnl0wcl",
-            "name": "Chicken Mingles Bucket Meal",
-            "price": 49905
-          },
-          {
-            "description": "Crowd-favorite combo of 2pc Hot & Crispy Chicken with Medium French Fries",
-            "id": "99896506",
-            "imageId": "pasdg6owucvi23hcp9eb",
-            "name": "Chicken & French Fries Bucket",
-            "price": 29905
-          },
-          {
-            "description": "Large Chicken Popcorn with Med French Fries - at a deal price",
-            "id": "99896502",
-            "imageId": "raq6sxtwfb9fvbd6bakq",
-            "name": "Chicken Popcorn & French Fries Bucket",
-            "price": 31905
-          },
-          {
-            "description": "Save Rs. 49 with 2 veg value burgers, crispy Medium French Fries & 2 delicious Dips at a deal price! [Serves 1-2]",
-            "id": "99896515",
-            "imageId": "xdzkcjjgypmjcwhikqae",
-            "name": "2 X Veg Krispers Burger Meal",
-            "price": 28857
-          }
-        ]
-      },
-      {
-        "title": "BUCKETS/ MEALS FOR 3-4 (UP TO 35% OFF)",
-        "itemCards": [
-          {
-            "description": "Save 24% with variety bucket of 1 Leg Pc, 1 Hot & Crispy, 2 Wings, 2 Strips, 1 Zinger Fillet, 3 Dips [20gm each] & 1 Pepsi 475 ml [Serves 2-3]",
-            "id": "117825877",
-            "imageId": "31f899d11feb6a4bc6b3af7815e0f06f",
-            "name": "All in One Chicken Bucket",
-            "price": 54857
-          },
-          {
-            "description": "Savings of 35% on signature bucket of 4pc Hot & crispy chicken, 6 Pc Wings, 4 Chicken Peri Peri Boneless strips, 2 Dips (20 gms each) & a Pepsi PET 475ml [serves 2-3 ]",
-            "id": "99896545",
-            "imageId": "jysxpxexjutosyup1ycs",
-            "name": "Ultimate Savings Chicken Bucket",
-            "price": 69905
-          },
-          {
-            "description": "Save 24% & enjoy 4pc Hot & Crispy Chicken, 4 Hot Wings, 6 chicken peri peri boneless strips & 2 delicious dips (20gm each) [serves 3]",
-            "id": "99896556",
-            "imageId": "nku1xlhmmifu1hxoiugt",
-            "name": "Stay Home Chicken Bucket",
-            "price": 79905
-          },
-          {
-            "description": "Save 26% on 6pc Hot & Crispy Chicken, 6 Hot Wings & 2 dips (20gm each) [serves 2- 3]",
-            "id": "99896544",
-            "imageId": "yqxxwbdxoaconjcyb7ka",
-            "name": "Big 12 - Chicken Bucket",
-            "price": 74857
-          },
-          {
-            "description": "Save 27% on this variety bucket of 4pc Hot & Crispy chicken & 4pc Smoky Red chicken [serves 2- 3 ]",
-            "id": "99896546",
-            "imageId": "yiozpo7vfq8t5s4hns1v",
-            "name": "Big 8 - Chicken Bucket",
-            "price": 69905
-          }
-        ]
-      }
-    ],
-    "368270": [
-      {
-        "title": "Recommended",
-        "itemCards": [
-          {
-            "id": "67858755",
-            "imageId": "zcnbhsiu17a2ilj6ztbt",
-            "name": "Rava Idli (1 Pc)",
-            "price": 8000
-          },
-          {
-            "id": "67858723",
-            "imageId": "68ddaf61da31b8ba2d4c727ce630b9b5",
-            "name": "Uddina Vada",
-            "price": 4500
-          },
-          {
-            "id": "67858748",
-            "imageId": "099d11736213062dabed46f412f02177",
-            "name": "Kharabath",
-            "price": 7000
-          },
-          {
-            "id": "67858734",
-            "imageId": "ieitxqlx0e28jereo0dm",
-            "name": "Idli Dip",
-            "price": 2500
-          },
-          {
-            "description": "Ghee roast masala dosa",
-            "id": "106148906",
-            "imageId": "6e140b8c07f9e9977ad5d3b703440469",
-            "name": "Ghee Roast Masala Dosa  ",
-            "price": 12500
-          },
-          {
-            "id": "67858810",
-            "imageId": "zvnfr36rdttxqxlvqygh",
-            "name": "Plain Masala Dosa With Red Chutney(no Palya)",
-            "price": 9000
-          },
-          {
-            "id": "67858815",
-            "imageId": "xiscqlz2djjbaecyxl3x",
-            "name": "Saagu Dosa",
-            "price": 10500
-          }
-        ]
-      },
-      {
-        "title": "Extra Chalukya Sambar & Green Chutney(idli / Vada / Dosa)",
-        "itemCards": [
-          {
-            "description": "Only sambar",
-            "id": "108062242",
-            "name": "Sambar 750ml (for Idli, Dosa)",
-            "price": 32400
-          },
-          {
-            "id": "108062243",
-            "name": "Green Chutney 500ml",
-            "price": 27400
-          }
-        ]
-      },
-      {
-        "title": "South Indian Snacks",
-        "itemCards": [
-          {
-            "id": "67858718",
-            "name": "1 Rice Idli ",
-            "price": 3500
-          },
-          {
-            "id": "67858731",
-            "name": "1 Idli 1 Vada",
-            "price": 7500
-          },
-          {
-            "id": "67858755",
-            "imageId": "zcnbhsiu17a2ilj6ztbt",
-            "name": "Rava Idli (1 Pc)",
-            "price": 8000
-          },
-          {
-            "description": "You get 3 big poorie",
-            "id": "67858758",
-            "name": "Poori (3pc) With Saghu",
-            "price": 10500
-          },
-          {
-            "description": "You get 3 big poorie",
-            "id": "67858762",
-            "name": "Poori (3pc) With Palya",
-            "price": 10500
-          },
-          {
-            "id": "67858738",
-            "name": "1 Idli 1 Vada Dip",
-            "price": 7500
-          },
-          {
-            "id": "67858723",
-            "imageId": "68ddaf61da31b8ba2d4c727ce630b9b5",
-            "name": "Uddina Vada",
-            "price": 4500
-          }
-        ]
-      },
-      {
-        "title": "Dosa Special",
-        "itemCards": [
-          {
-            "id": "109341656",
-            "name": "Set Dosa With Saghu (3 Piece)",
-            "price": 12000
-          },
-          {
-            "description": "Made with pure ghee",
-            "id": "109341649",
-            "name": "Plain Ghee Roast Dosa(no Palya No Red Chutney)",
-            "price": 9500
-          },
-          {
-            "description": "Double ghee with pure butter and roasted with garlic chutney and cashews added, tastes superb",
-            "id": "106277554",
-            "name": "Double Roast Ghee Butter Garlic Masala Dosa",
-            "price": 15000
-          },
-          {
-            "description": "Ghee roast masala dosa",
-            "id": "106148906",
-            "imageId": "6e140b8c07f9e9977ad5d3b703440469",
-            "name": "Ghee Roast Masala Dosa  ",
-            "price": 12500
-          },
-          {
-            "id": "67858810",
-            "imageId": "zvnfr36rdttxqxlvqygh",
-            "name": "Plain Masala Dosa With Red Chutney(no Palya)",
-            "price": 9000
-          },
-          {
-            "id": "67858820",
-            "name": "Onion Dosa",
-            "price": 10500
-          },
-          {
-            "id": "67858815",
-            "imageId": "xiscqlz2djjbaecyxl3x",
-            "name": "Saagu Dosa",
-            "price": 10500
-          }
-        ]
-      },
-      {
-        "title": "Hot Milk Beverages",
-        "itemCards": [
-          {
-            "id": "109058358",
-            "name": "Filter Coffee With Sugar",
-            "price": 2500
-          },
-          {
-            "id": "109058355",
-            "name": "Tea With Sugar",
-            "price": 2500
-          },
-          {
-            "id": "109058352",
-            "name": "Filter Coffee",
-            "price": 3000
-          },
-          {
-            "id": "109058349",
-            "name": "Plain Milk 250ml",
-            "price": 4000
-          },
-          {
-            "description": "No sugar in tea",
-            "id": "67858835",
-            "name": "Tea",
-            "price": 3000
-          },
-          {
-            "id": "67858840",
-            "name": "Hot Badam Milk",
-            "price": 4000
-          },
-          {
-            "id": "67858845",
-            "name": "Plain Milk With Sugar 250ml",
-            "price": 3500
-          }
-        ]
-      },
-      {
-        "title": "North Indian Curries",
-        "itemCards": [
-          {
-            "id": "112313263",
-            "name": "Gobi Chilli Gravy",
-            "price": 22500
-          },
-          {
-            "id": "112004254",
-            "imageId": "ab5296d8bf8265754dad1785c478a6a2",
-            "name": "Paneer Guntur Masala",
-            "price": 25000
-          },
-          {
-            "id": "67858870",
-            "name": "Dal Methi",
-            "price": 19000
-          },
-          {
-            "id": "67858873",
-            "name": "Dal Fry",
-            "price": 17500
-          },
-          {
-            "id": "67858874",
-            "name": "Dal Palak",
-            "price": 19000
-          },
-          {
-            "id": "67858875",
-            "imageId": "d483c5a433f5347d3d29042172eeabad",
-            "name": "Mushroom Chilly Gravy",
-            "price": 24000
-          },
-          {
-            "id": "67858877",
-            "imageId": "8898981608cc6ee755cd7ac74e973129",
-            "name": "Mushroom Masala",
-            "price": 25000
-          }
-        ]
-      },
-      {
-        "title": "Special Spicy Curries",
-        "itemCards": [
-          {
-            "id": "67858797",
-            "name": "Spicy Mushroom Guntur Masala",
-            "price": 25000
-          },
-          {
-            "id": "67858801",
-            "name": "Spicy Paneer Guntur Masala",
-            "price": 25000
-          },
-          {
-            "description": "Packed In Madike",
-            "id": "67858803",
-            "name": "Madike Paneer Masala",
-            "price": 23000
-          },
-          {
-            "description": "Packed In Madike",
-            "id": "67858806",
-            "name": "Madike Mushroom Masala",
-            "price": 23000
-          },
-          {
-            "id": "67858809",
-            "name": "Spicy Veg Guntur Masala",
-            "price": 22000
-          }
-        ]
-      },
-      {
-        "title": "Rice Corner",
-        "itemCards": [
-          {
-            "id": "67858751",
-            "name": "Vegetable Noodles",
-            "price": 21000
-          },
-          {
-            "id": "112936465",
-            "name": "South Veg Pulao",
-            "price": 9500
-          },
-          {
-            "id": "112935866",
-            "name": "Bread Pulao",
-            "price": 9500
-          },
-          {
-            "id": "67858714",
-            "name": "Vegetable Pulav",
-            "price": 20000
-          },
-          {
-            "id": "67858721",
-            "name": "Ghee Rice",
-            "price": 16000
-          },
-          {
-            "id": "67858727",
-            "imageId": "af2efa4bea8174d46a58d88a6d3fccec",
-            "name": "Vegetable Fried Rice",
-            "price": 18000
-          },
-          {
-            "id": "67858733",
-            "name": "Gobi Fried Rice",
-            "price": 22500
-          }
-        ]
-      }
-    ],
-    "205813": [
-      {
-        "title": "Recommended",
-        "itemCards": [
-          {
-            "description": "Serves 1 | One pieces of soft & spongy steamed idlis prepared from fermented batter of rice and lentil. Served with sambhar & fresh chutney making it a source of fiber.",
-            "id": "90450023",
-            "imageId": "zr8tmyfgw7zgwnsw9qbn",
-            "name": "Idli (1 Pcs)",
-            "price": 4500
-          },
-          {
-            "description": "Serves 1 | Two pieces of soft & spongy steamed idlis prepared from fermented batter of rice and lentil. Served with sambhar & fresh chutney making it a source of fiber.",
-            "id": "90450025",
-            "imageId": "t9gs85fd1jc108td5wwt",
-            "name": "Idli (2 Pcs)",
-            "price": 7000
-          },
-          {
-            "description": "Serves 1 | Super-soft steamed rice cakes with hot deep fried vada served with chutney and sambar.",
-            "id": "90450026",
-            "imageId": "px3ed0cg7g2ihjhat4d4",
-            "name": "Idli (2 Pcs) Vada (1 Pcs)",
-            "price": 12000
-          },
-          {
-            "description": "Serves 1 | Soft steamed semolina batter cakes served with bombay sagu and verity of chutneys.",
-            "id": "90450096",
-            "imageId": "rmgadmcroh4f9bp0c7vq",
-            "name": "Rava Idli (1 Pcs)",
-            "price": 8000
-          },
-          {
-            "description": "Serves 1 | Three pieces of soft & spongy steamed idlis prepared from fermented batter of rice and lentil. Served with sambhar & fresh chutney making it a source of fiber.",
-            "id": "90450027",
-            "imageId": "svavnvbyr9vbwvpatodr",
-            "name": "Idli (3 Pcs)",
-            "price": 10000
-          },
-          {
-            "description": "Serves 1 | A mouthwatering golden brown dosa made of rice and lentil batter with a crispy exterior texture,served with a spicy sambar and chutney.",
-            "id": "78319037",
-            "imageId": "ayxg8kr5o84zxqk3q0lz",
-            "name": "Plain Dosa",
-            "price": 10000
-          },
-          {
-            "description": "Serves 1 | Dosa are crepes made from fermented lentil-rice batter. Served with sambar & chutney",
-            "id": "78319034",
-            "imageId": "aqiselzfwc0afcmp9grr",
-            "name": "Masala Dosa",
-            "price": 11000
-          }
-        ]
-      },
-      {
-        "title": "Idly",
-        "itemCards": [
-          {
-            "description": "Serves 1 | One pieces of soft & spongy steamed idlis prepared from fermented batter of rice and lentil. Served with sambhar & fresh chutney making it a source of fiber.",
-            "id": "90450023",
-            "imageId": "zr8tmyfgw7zgwnsw9qbn",
-            "name": "Idli (1 Pcs)",
-            "price": 4500
-          },
-          {
-            "description": "Serves 1 | Two pieces of soft & spongy steamed idlis prepared from fermented batter of rice and lentil. Served with sambhar & fresh chutney making it a source of fiber.",
-            "id": "90450025",
-            "imageId": "t9gs85fd1jc108td5wwt",
-            "name": "Idli (2 Pcs)",
-            "price": 7000
-          },
-          {
-            "description": "Super-soft steamed rice cakes with hot deep fried vada served with chutney and sambar.",
-            "id": "90450024",
-            "name": "Idli (1 Pcs) Vada (1 Pcs)",
-            "price": 9000
-          },
-          {
-            "description": "Serves 1 | Super-soft steamed rice cakes with hot deep fried vada served with chutney and sambar.",
-            "id": "90450026",
-            "imageId": "px3ed0cg7g2ihjhat4d4",
-            "name": "Idli (2 Pcs) Vada (1 Pcs)",
-            "price": 12000
-          },
-          {
-            "description": "Serves 1 | Soft steamed semolina batter cakes served with bombay sagu and verity of chutneys.",
-            "id": "90450096",
-            "imageId": "rmgadmcroh4f9bp0c7vq",
-            "name": "Rava Idli (1 Pcs)",
-            "price": 8000
-          },
-          {
-            "description": "Serves 1 | Three pieces of soft & spongy steamed idlis prepared from fermented batter of rice and lentil. Served with sambhar & fresh chutney making it a source of fiber.",
-            "id": "90450027",
-            "imageId": "svavnvbyr9vbwvpatodr",
-            "name": "Idli (3 Pcs)",
-            "price": 10000
-          },
-          {
-            "description": "Crispy deep fried vada served with sambar & chutney",
-            "id": "90450115",
-            "name": "Vada (1 Pcs)",
-            "price": 5000
-          }
-        ]
-      },
-      {
-        "title": "Dosa",
-        "itemCards": [
-          {
-            "description": "Serves 1 | A mouthwatering golden brown dosa made of rice and lentil batter with a crispy exterior texture,served with a spicy sambar and chutney.",
-            "id": "78319037",
-            "imageId": "ayxg8kr5o84zxqk3q0lz",
-            "name": "Plain Dosa",
-            "price": 10000
-          },
-          {
-            "description": "Serves 1 | Dosa are crepes made from fermented lentil-rice batter. Served with sambar & chutney",
-            "id": "78319034",
-            "imageId": "aqiselzfwc0afcmp9grr",
-            "name": "Masala Dosa",
-            "price": 11000
-          },
-          {
-            "description": "Serves 1 | 3 piece super soft and delicious set dosa served with sagu and chutney.",
-            "id": "78319042",
-            "imageId": "qhcmicpjhjuhxarlc4rz",
-            "name": "Set Dosa",
-            "price": 11000
-          },
-          {
-            "description": "Light and fluffy dosas served with sagu & chutney",
-            "id": "90450031",
-            "name": "Khali Dosa (2 Pcs)",
-            "price": 10000
-          },
-          {
-            "description": "Serves 1 | Dosa are crepes made from fermented lentil-rice batter. Served with sambar & chutney",
-            "id": "78319031",
-            "imageId": "feicuzvk7htrr1tlq8g9",
-            "name": "Butter Plain Dosa",
-            "price": 10000
-          },
-          {
-            "description": "Serves 1 | Dosa are crepes made from fermented lentil-rice batter. Masala and the red chutney inner side of dosa with butter on top served with sambar & chutney",
-            "id": "78319030",
-            "imageId": "ppyerdz7vmqthfvxkhfr",
-            "name": "Butter Masala Dosa",
-            "price": 12000
-          },
-          {
-            "description": "Serves 1 | A delicious crisp fried dosa smeared with a spicy red chutney along with mildly spiced mashed potatoes filling served with sambar and chutney",
-            "id": "90450053",
-            "imageId": "hcufhhq0x5yqkpavokqb",
-            "name": "Mysuru Masala Dosa",
-            "price": 13000
-          }
-        ]
-      },
-      {
-        "title": "South Indian",
-        "itemCards": [
-          {
-            "description": "Serves 1 | Served with chutney",
-            "id": "90450061",
-            "name": "Pakoda",
-            "price": 7000
-          },
-          {
-            "description": "Serves 1 | A south indian favourite made with wholesome, high protein a blend of rice, dal, vegetables and ground nuts which is slow cooked, served with kharabhoondi.",
-            "id": "78319122",
-            "imageId": "m0guwdbjmymgrpannqxd",
-            "name": "Bisibele Bath",
-            "price": 9000
-          },
-          {
-            "description": "Serves 1 | A perfect combination of sweet & salt to tantalize your taste buds.served with chutney",
-            "id": "78319124",
-            "imageId": "ohe5blvoeapm36h8x3a1",
-            "name": "Chow Chow Bath",
-            "price": 11000
-          },
-          {
-            "description": "Serves 1 | Mouth-melting and succulent yogurt-dipped vada bursting with a blend of flavors. Served with boondi",
-            "id": "90449992",
-            "name": "Curd Vada (1 Pcs)",
-            "price": 8500
-          },
-          {
-            "description": "Serves 1 | A succulent sweet south indian desert made of semolina cooked in ghee with diced cashew nuts,raisins and served hot.",
-            "id": "78319132",
-            "imageId": "jatirpwrhmycixukyvx0",
-            "name": "Kesari Bath",
-            "price": 5500
-          },
-          {
-            "description": "Serves 1 | Savoury semolina, which are soft and fluffy, made with fermented lentil batter, served with coconut chutney",
-            "id": "78319133",
-            "imageId": "vsd0so6d7mblozezlvwp",
-            "name": "Khara Bath",
-            "price": 6000
-          },
-          {
-            "description": "Serves 1 | Delicious south indian porridge made with rice, moong dal and rich variety of spices.",
-            "id": "78319134",
-            "imageId": "sjlmxofj9zzbo3ii65fd",
-            "name": "Pongal",
-            "price": 9000
-          }
-        ]
-      },
-      {
-        "title": "Beverages",
-        "itemCards": [
-          {
-            "description": "Your favorite south indian filter coffee",
-            "id": "78319266",
-            "name": "Coffee",
-            "price": 5500
-          },
-          {
-            "description": "High quality tea picked from the choicest tea gardens in assam blended with the flavours",
-            "id": "78319267",
-            "name": "Tea",
-            "price": 5500
-          },
-          {
-            "description": "Milk with sugar",
-            "id": "63092066",
-            "name": "Milk",
-            "price": 5500
-          },
-          {
-            "description": "Black coffe with out milk",
-            "id": "63092063",
-            "name": "Black Coffee",
-            "price": 5500
-          },
-          {
-            "description": "Black tea with out milk",
-            "id": "63092065",
-            "name": "Black Tea",
-            "price": 5500
-          },
-          {
-            "description": "Milk mixed with bournvita powder",
-            "id": "78319269",
-            "name": "Bournvita",
-            "price": 6500
-          },
-          {
-            "description": "Milk mixed with horlicks powder",
-            "id": "63092062",
-            "name": "Horlicks",
-            "price": 6500
-          }
-        ]
-      },
-      {
-        "title": "Combo",
-        "itemCards": [
-          {
-            "description": "Serves 1 | Masala dosa 2 nos, carrot halwa served with sambar & chutney",
-            "id": "54482991",
-            "name": "Masala Dosa Combo",
-            "price": 19900
-          },
-          {
-            "description": "Serves 1 | Pongal, vada 1 nos served with raita, sambar & chutney",
-            "id": "64255011",
-            "name": "Pongal + Vada",
-            "price": 13500
-          },
-          {
-            "description": "Serves 1 | Idli 1 nos, vada 1 nos, mini masala dosa, mini kesari bath, mini khara bath served with sambar & chutney",
-            "id": "64255012",
-            "name": "All Day Breakfast Combo",
-            "price": 19000
-          }
-        ]
-      },
-      {
-        "title": "Extra",
-        "itemCards": [
-          {
-            "description": "Extra cup curd",
-            "id": "78319129",
-            "name": "Extra Cup Curd",
-            "price": 2500
-          }
-        ]
-      }
-    ],
-    "53490": [
+  "restroData": [
+    {
+      "id": "10575",
+      "name": "Pizza Hut",
+      "cuisines": ["Pizzas"],
+      "costForTwo": "₹600 for two",
+      "avgRating": 4.1,
+      "deliveryTime": 37,
+      "cloudinaryImageId": "2b4f62d606d1b2bfba9ba9e5386fabb7",
+      "menuItem": [
+        {
+          "title": "Recommended",
+          "itemCards": [
+            {
+              "id": "72273333",
+              "imageId": "dpventcrozvfni0lqb10",
+              "name": "Margherita",
+              "price": 16900,
+              "description": "Serves 1 | Pizza topped with our herb-infused signature pan sauce and 100% mozzarella cheese. A classic treat for all cheese lovers out there!"
+            },
+            {
+              "id": "72273361",
+              "imageId": "cbye9x7wxeopwqvenn7g",
+              "name": "Veggie Feast",
+              "price": 25900,
+              "description": "Serves 1 | Herbed onion and Green Capsicum, juicy Sweet Corn & 100% mozzarella cheese with flavourful pan sauce."
+            },
+            {
+              "id": "72273294",
+              "imageId": "s5ld93rsknx0fhj6xarn",
+              "name": "Tandoori Paneer",
+              "price": 31900,
+              "description": "Serves 1 | It's our signature. Spiced Paneer, Crunchy Onions & Green Capsicum, spicy Red Paprika with delicious Tandoori Sauce and 100% mozzarella cheese!"
+            },
+            {
+              "id": "72273263",
+              "imageId": "c3832837392378cca98e484b89c313ba",
+              "name": "Country Feast",
+              "price": 31900,
+              "description": "Serves 1 | Loaded with Herbed Onion & Green capsicum, Sweet Corn, Tomato with signature pan sauce and 100% Mozzarella cheese. It's a feast you can't refuse."
+            },
+            {
+              "id": "111819621",
+              "imageId": "z0c4xpovma1qtmu4tlls",
+              "name": "Veggie Supreme",
+              "price": 37900,
+              "description": "Serves 1 | A supreme combination of Black Olives, Green Capsicum, Mushroom, Onion, spicy Red Paprika & juicy Sweet Corn  with flavourful pan sauce and 100% mozzarella cheese."
+            },
+            {
+              "id": "72273138",
+              "imageId": "juplqft4tmub5hqocwxk",
+              "name": "Chicken Tikka",
+              "price": 37900,
+              "description": "Serves 1 | Mouth-watering Chicken Tikka, crunchy Onion & Tomato with delicious Tandoori Sauce and 100% mozzarella cheese."
+            },
+            {
+              "id": "87270853",
+              "imageId": "dlvdmsn1uotbdn4vzvap",
+              "name": "Chicken Supreme",
+              "price": 40900,
+              "description": "Serves 1 | Loaded with delicious Chicken Tikka, flavourful Herbed Chicken, spicy Schezwan Chicken Meatball with flavourful pan sauce and 100% mozzarella cheese."
+            },
+            {
+              "id": "72273104",
+              "imageId": "quxirmjttzksp7xlhysc",
+              "name": "Triple Chicken Feast",
+              "price": 40900,
+              "description": "Serves 1 | Spicy Schezwan Chicken Meatball, flavourful  Herbed Chicken, juicy Chicken Sausage, Green Capsicum & Onion, spicy Red Paprika with classic pan sauce and 100% mozzarella cheese."
+            },
+            {
+              "id": "114788346",
+              "imageId": "e4f730c3f48f82fce15895dacf3e9081",
+              "name": "Exotica Veggie Garlic Bread - New",
+              "price": 15900,
+              "description": "Serves 1 | Hut's signature Garlic Bread topped with spiced exotic veggies and cheesy dressing"
+            },
+            {
+              "id": "70601527",
+              "imageId": "n2ycmete7ehes9mrerlw",
+              "name": "Classic Bread Stix",
+              "price": 11900,
+              "description": "Serves 1 | Freshly baked buttery bread stick, sprinkled with herbs"
+            },
+            {
+              "id": "70601533",
+              "imageId": "o0zibtrbtyjwznptrsgy",
+              "name": "Creamy Bread Stix",
+              "price": 16900,
+              "description": "Serves 1 | Freshly baked buttery bread sticks, topped with a creamy sauce & herbs"
+            },
+            {
+              "id": "70601532",
+              "imageId": "m8ecjvtqcjtnt31uvobl",
+              "name": "Garlic Bread Spicy Supreme",
+              "price": 16900,
+              "description": "Serves 1 | Garlic bread topped with (Mozzarella cheeese, onion & green chillies)."
+            },
+            {
+              "id": "114788348",
+              "imageId": "frgza6cm1sjezw79pjtu",
+              "name": "Sprinkled Fries - New",
+              "price": 10900,
+              "description": "Serves 1 | Baked Fries seasoned with our signature peruvian seasoning"
+            },
+            {
+              "id": "119747071",
+              "imageId": "7ac7f4004c86ebb381fa1c0c3bd58722",
+              "name": "Brow-wow-nie",
+              "price": 10900,
+              "description": "Serves 1 | A divine choco brownie for your all time chocolate cravings"
+            },
+            {
+              "id": "111745331",
+              "imageId": "aylqpxx08pltowbzxhd3",
+              "name": "Chicken Sausage - Personal",
+              "price": 25900,
+              "description": "Serves 1 | Pizza topped with Chicken n Cheese Sausages & crunchy Onions, flavourful pan sauce and 100% mozzarella cheese."
+            },
+            {
+              "id": "99712869",
+              "imageId": "ckbnw98n6tffy50wvuzm",
+              "name": "Corn & Cheese - Personal",
+              "price": 17900,
+              "description": "Serves 1 | A combination of juicy Sweet Corn & 100% mozzarella cheese with flavourful signature pan sauce."
+            },
+            {
+              "id": "99712904",
+              "imageId": "fqzol9tuftv5aelg0v35",
+              "name": "Country Feast - Personal",
+              "price": 31900,
+              "description": "Serves 1 | Loaded with Herbed Onion & Green capsicum, Sweet Corn, Tomato & Mushroom with signature pan sauce and 100% mozzarella cheese. It's a feast you can't refuse."
+            },
+            {
+              "id": "99712884",
+              "imageId": "a89yqx09ppwlecyqterp",
+              "name": "Spiced Paneer - Personal",
+              "price": 25900,
+              "description": "Serves 1 | Spiced Paneer, crunchy Onion, juicy Tomato & 100% mozzarella cheese, with our classic pan sauce."
+            },
+            {
+              "id": "128412959",
+              "imageId": "c423ad4107490e753329ff9eaf3f1ab8",
+              "name": "Classic BreadStix + Cheesy Dip + Pepsi Pet",
+              "price": 20900,
+              "description": "Serves 1 | Buttery Classic BreadStix , Cheesy Dip, & a refreshing Pepsi - a combo you won't wanna miss!"
+            },
+            {
+              "id": "128412961",
+              "imageId": "911cf4771b2fe4361b8bf59b748db610",
+              "name": "Creamy BreadStix + Pepsi Pet",
+              "price": 22900,
+              "description": "Serves 1 | Enjoy Creamy Garlic Bread Stix & Pepsi. Freshly baked Classic BreadStix + gooey cheese sauce = an unbeatable combo!"
+            }
+          ]
+        },
+        {
+          "title": "Veg Pizza",
+          "itemCards": [
+            {
+              "id": "116284765",
+              "imageId": "0e7df98b7cffdb0b88856464014ad2ff",
+              "name": "Schezwan Margherita",
+              "price": 21900,
+              "description": "Serves 1 | Your very own Margherita, now with a spicy twist! Loaded with our signature spicy schezwan sauce & 100% mozzarella cheese"
+            },
+            {
+              "id": "116284767",
+              "imageId": "0c4c12819d98a35144e3f08451ae64f3",
+              "name": "Mexican Fiesta",
+              "price": 31900,
+              "description": "Serves 1 | Flavourful mix of red capsicum, green capsicum, jalapeno, onion, black olives, sweet corn and 100% mozzarella Cheese with a signature spice sprinkle & our flavourful pan sauce."
+            },
+            {
+              "id": "116284769",
+              "imageId": "c53ce130542adf692e861b4bf9756883",
+              "name": "Cheezy Mushroom Magic",
+              "price": 31900,
+              "description": "Serves 1 | A new combination with creamy mushroom sauce, chunky black olives, spicy jalapeno, juicy sweet corn, mushroom and 100% mozzarella cheese with garlic sprinkle for extra flavour hit."
+            },
+            {
+              "price": 37900,
+              "description": "Serves 1 | An ultimate combination of your favourite veggies- onion, green capsicum, mushroom, tomato, spicy jalapeno on tandoori sauce, topped with 100% mozzarella cheese & generous drizzle of mint mayo.",
+              "id": "116284770",
+              "imageId": "b7d1f56df6414f8b6e49001af95e259a",
+              "name": "Ultimate Tandoori Veggie"
+            },
+            {
+              "price": 37900,
+              "description": "Serves 1 | A treat for all makhni lovers. Spiced paneer, onion, juicy red bell peppers with our new flavourful makhni sauce, topped with 100% mozzarella cheese and buttery spice sprinkle",
+              "id": "116284772",
+              "imageId": "bf62afee565475fb92a204206321a41c",
+              "name": "Mazedar Makhni Paneer"
+            },
+            {
+              "price": 37900,
+              "description": "Serves 1 | Our divine peruvian flavoured cheesy sauce, topped with sweet corn, green capsicum, red paprika and 100% mozzarella cheese, finished with a generous drizzle of texas garlic sauce.",
+              "id": "116284774",
+              "imageId": "9bd233c76aaf2d2745c5c07332609a8c",
+              "name": "Awesome American Cheesy"
+            },
+            {
+              "price": 16900,
+              "description": "Serves 1 | Pizza topped with our herb-infused signature pan sauce and 100% mozzarella cheese. A classic treat for all cheese lovers out there!",
+              "id": "72273333",
+              "imageId": "dpventcrozvfni0lqb10",
+              "name": "Margherita"
+            },
+            {
+              "price": 21900,
+              "description": "Serves 1 | A combination of juicy Sweet Corn & 100% mozzarella cheese with flavourful signature pan sauce.",
+              "id": "72273302",
+              "imageId": "ckbnw98n6tffy50wvuzm",
+              "name": "Corn & Cheese"
+            },
+            {
+              "price": 25900,
+              "description": "Serves 1 | Herbed onion and Green Capsicum, juicy Sweet Corn & 100% mozzarella cheese with flavourful pan sauce.",
+              "id": "72273361",
+              "imageId": "cbye9x7wxeopwqvenn7g",
+              "name": "Veggie Feast"
+            },
+            {
+              "price": 25900,
+              "description": "Serves 1 | Spiced Paneer, crunchy Onion, juicy Tomato  & 100% mozzarella cheese, with our classic pan sauce.",
+              "id": "99811646",
+              "imageId": "a89yqx09ppwlecyqterp",
+              "name": "Spiced Paneer"
+            },
+            {
+              "price": 31900,
+              "description": "Serves 1 | It's our signature. Spiced Paneer, Crunchy Onions & Green Capsicum, spicy Red Paprika with delicious Tandoori Sauce and 100% mozzarella cheese!",
+              "id": "72273294",
+              "imageId": "s5ld93rsknx0fhj6xarn",
+              "name": "Tandoori Paneer"
+            },
+            {
+              "price": 31900,
+              "description": "Serves 1 | Loaded with Herbed Onion & Green capsicum, Sweet Corn, Tomato with signature pan sauce and 100% Mozzarella cheese. It's a feast you can't refuse.",
+              "id": "72273263",
+              "imageId": "c3832837392378cca98e484b89c313ba",
+              "name": "Country Feast"
+            },
+            {
+              "price": 37900,
+              "description": "Serves 1 | A supreme combination of Black Olives, Green Capsicum, Mushroom, Onion, spicy Red Paprika & juicy Sweet Corn  with flavourful pan sauce and 100% mozzarella cheese.",
+              "id": "111819621",
+              "imageId": "z0c4xpovma1qtmu4tlls",
+              "name": "Veggie Supreme"
+            },
+            {
+              "description": "Serves 1 | Pizza topped with our herb-infused signature pan sauce and 100% mozzarella cheese. A classic treat for all cheese lovers out there!",
+              "id": "96589956",
+              "imageId": "dpventcrozvfni0lqb10",
+              "name": "Margherita Pizza",
+              "price": 16900
+            }
+          ]
+        },
+        {
+          "title": "Non Veg Pizza",
+          "itemCards": [
+            {
+              "price": 28900,
+              "description": "Serves 1 | Our classic chicken & cheese sausage, juicy sweet corn and 100% mozzarella cheese with flavourful pan sauce",
+              "id": "116284775",
+              "imageId": "190c84ffc8773254c38b3b993e31ba73",
+              "name": "Sausage & Sweet Corn."
+            },
+            {
+              "price": 31900,
+              "description": "Serves 1 | Dhaba style chicken keema masala, with green chiili, crunchy onion with flavourful pan sauce, 100 % mozzarella cheese & a generous drizzle of mint mayo",
+              "id": "116284825",
+              "imageId": "d9eddb1993da4e5dc65ef2ceaa8503f7",
+              "name": "Dhabe Da Keema"
+            },
+            {
+              "price": 31900,
+              "description": "Serves 1 | Loaded with our signature spicy schezwan sauce, juicy schezwan chicken meatballs & 100% mozzarella cheese",
+              "id": "116284830",
+              "imageId": "4061af0525c00c89f0d1edbe7216765c",
+              "name": "Sizzling Schezwan Chicken"
+            },
+            {
+              "price": 37900,
+              "description": "Serves 1 | Our divine peruvian flavoured cheesy sauce, topped with classic chicken pepperoni, cheese and chicken sausage black olives, spicy jalapeno and 100% mozzarella cheese, finished with a generous drizzle of texas garlic sauce.",
+              "id": "116284837",
+              "imageId": "f55016931d13f7489c6140de76fa16aa",
+              "name": "Awesome American Cheesy Chicken"
+            },
+            {
+              "price": 40900,
+              "description": "Serves 1 | A chicken lovers delight ! Combination of chicken malai tikka, flavourful chicken keema masala, crunchy onion, juicy tomato on our new makhni sauce with 100% mozzarella cheese and buttery spice sprinkle.",
+              "id": "116284841",
+              "imageId": "eb7467f9836bde6741eff6cf81b996da",
+              "name": "Nawabi Murg Makhni"
+            },
+            {
+              "price": 25900,
+              "description": "Serves 1 | Pizza topped with Chicken n Cheese Sausages & crunchy Onions, flavourful pan sauce and 100% mozzarella cheese.",
+              "id": "72273341",
+              "imageId": "aylqpxx08pltowbzxhd3",
+              "name": "Chicken Sausage"
+            },
+            {
+              "price": 37900,
+              "description": "Serves 1 | Amazingly flavourful Chicken Malai Tikka, Herbed Onion & Green Capsicum, spicy Red Paprika with flavourful pan sauce and 100% mozzarella cheese.",
+              "id": "72273167",
+              "imageId": "t1stinhga3alitdpr6yt",
+              "name": "Murg Malai Chicken"
+            },
+            {
+              "price": 37900,
+              "description": "Serves 1 | Mouth-watering Chicken Tikka, crunchy Onion & Tomato with delicious Tandoori Sauce and 100% mozzarella cheese.",
+              "id": "72273138",
+              "imageId": "juplqft4tmub5hqocwxk",
+              "name": "Chicken Tikka"
+            },
+            {
+              "price": 37900,
+              "description": "Serves 1 | Yummy Chicken Pepperoni & 100% mozzarella cheese with signature pan sauce. Its a classic!",
+              "id": "87270850",
+              "imageId": "gdz44c9hirco09bdafoq",
+              "name": "Chicken Pepperoni"
+            },
+            {
+              "price": 40900,
+              "description": "Serves 1 | Loaded with delicious Chicken Tikka, flavourful Herbed Chicken, spicy Schezwan Chicken Meatball with flavourful pan sauce and 100% mozzarella cheese.",
+              "id": "87270853",
+              "imageId": "dlvdmsn1uotbdn4vzvap",
+              "name": "Chicken Supreme"
+            },
+            {
+              "price": 40900,
+              "description": "Serves 1 | A divine combination of delicious Chicken Tikka &  Malai Chicken Tikka, Onion, spicy Red Paprika with flavourful pan sauce and 100% mozzarella cheese.",
+              "id": "72273116",
+              "imageId": "d3bnas8nxt9dr13jhipu",
+              "name": "Chicken Tikka Supreme"
+            },
+            {
+              "price": 40900,
+              "description": "Serves 1 | Spicy Schezwan Chicken Meatball, flavourful  Herbed Chicken, juicy Chicken Sausage, Green Capsicum & Onion, spicy Red Paprika with classic pan sauce and 100% mozzarella cheese.",
+              "id": "72273104",
+              "imageId": "quxirmjttzksp7xlhysc",
+              "name": "Triple Chicken Feast"
+            }
+          ]
+        },
+        {
+          "title": "Garlic Bread",
+          "itemCards": [
+            {
+              "description": "Serves 1 | Hut's signature Garlic Bread topped with spiced exotic veggies and cheesy dressing",
+              "id": "114788346",
+              "imageId": "e4f730c3f48f82fce15895dacf3e9081",
+              "name": "Exotica Veggie Garlic Bread - New",
+              "price": 15900
+            },
+            {
+              "description": "Serves 1 | Freshly baked buttery bread stick, sprinkled with herbs",
+              "id": "70601527",
+              "imageId": "n2ycmete7ehes9mrerlw",
+              "name": "Classic Bread Stix",
+              "price": 11900
+            },
+            {
+              "description": "Serves 1 | Freshly baked buttery bread sticks, topped with a creamy sauce & herbs",
+              "id": "70601533",
+              "imageId": "o0zibtrbtyjwznptrsgy",
+              "name": "Creamy Bread Stix",
+              "price": 16900
+            },
+            {
+              "description": "Serves 1 | Nothing beats our garlic bread! Period!",
+              "id": "70601506",
+              "imageId": "ziohlqoy38mfqzmfxy7e",
+              "name": "Cheese Garlic Bread",
+              "price": 15900
+            },
+            {
+              "description": "Serves 1 | Garlic bread topped with (Mozzarella cheeese, onion & green chillies).",
+              "id": "70601532",
+              "imageId": "m8ecjvtqcjtnt31uvobl",
+              "name": "Garlic Bread Spicy Supreme",
+              "price": 16900
+            }
+          ]
+        },
+        {
+          "title": "Appetizer",
+          "itemCards": [
+            {
+              "description": "Serves 1 | Baked Fries seasoned with our signature peruvian seasoning",
+              "id": "114788348",
+              "imageId": "frgza6cm1sjezw79pjtu",
+              "name": "Sprinkled Fries - New",
+              "price": 10900
+            },
+            {
+              "description": "Serves 1 | Freshly baked pocket stuffed with flavourful paneer, veggies & smoked texas garlic sauce",
+              "id": "70601542",
+              "imageId": "spmefmk8u9ftwbvdk6ay",
+              "name": "Zesty Paneer Pocket",
+              "price": 12900
+            },
+            {
+              "description": "Serves 1 | Freshly baked pocket stuffed with chicken, veggies & smoked texas garlic sauce",
+              "id": "70601539",
+              "imageId": "wukqmbrmv0vngtlrczgw",
+              "name": "Zesty Chicken Pocket",
+              "price": 14900
+            },
+            {
+              "description": "Serves 1 | 4 pcs of Tender and Juicy sweet chilly chicken wings.",
+              "id": "70601554",
+              "imageId": "f5fyw9eyvkdjvybjhgho",
+              "name": "Spicy Baked Chicken Wings (4 pcs)",
+              "price": 20900
+            },
+            {
+              "description": "Serves 1 | Tender and Juicy sweet chilli chicken wings.",
+              "id": "70601538",
+              "imageId": "aeems3ogejdzxfjblkx7",
+              "name": "Spicy Baked Chicken Wings",
+              "price": 25900
+            },
+            {
+              "description": "Serves 1 | Jalapano poppers with gooey white sauce.",
+              "id": "70601551",
+              "imageId": "oqfrpjaw6v4q3p3qafww",
+              "name": "Jalapeno Poppers",
+              "price": 11900
+            },
+            {
+              "description": "Serves 1 | Cheesy Jalapeno Dip 20 Gm",
+              "id": "81890283",
+              "imageId": "l7twhqhybkdlsvkyq3pj",
+              "name": "Cheesy Dip",
+              "price": 2857
+            },
+            {
+              "description": "Serves 1 | Veg Mayonnaise Dip 20 Gm",
+              "id": "81890281",
+              "imageId": "k05qzlgnyo43bdjdbbuy",
+              "name": "Veg Mayonnaise Dip",
+              "price": 2857
+            },
+            {
+              "description": "Serves 1 | Ketchup Sachet",
+              "id": "79483780",
+              "imageId": "hovlvq3ceumkhyivd0ik",
+              "name": "Ketchup",
+              "price": 95
+            },
+            {
+              "description": "Serves 1 | Schezwan Dip",
+              "id": "76892507",
+              "imageId": "ygx3tiuj7ygbp1jyw1ce",
+              "name": "Momo Dip",
+              "price": 3000
+            }
+          ]
+        },
+        {
+          "title": "Flat Menu @179",
+          "itemCards": [
+            {
+              "description": "Our divine peruvian flavoured cheesy sauce, topped with sweet corn, green capsicum, red paprika and 100% mozzarella cheese, finished with a generous drizzle of texas garlic sauce.",
+              "id": "128412976",
+              "imageId": "9bd233c76aaf2d2745c5c07332609a8c",
+              "name": "Awesome American Cheesy - Personal",
+              "price": 37900
+            },
+            {
+              "description": "A new combination with creamy mushroom sauce, chunky black olives, spicy jalapeno, juicy sweet corn, mushroom and 100% mozzarella cheese with garlic sprinkle for extra flavour hit.",
+              "id": "128412969",
+              "imageId": "c53ce130542adf692e861b4bf9756883",
+              "name": "Cheezy Mushroom Magic - Personal",
+              "price": 31900
+            },
+            {
+              "description": "Yummy Chicken Pepperoni & 100% mozzarella cheese with signature pan sauce. Its a classic!",
+              "id": "99712922",
+              "imageId": "gdz44c9hirco09bdafoq",
+              "name": "Chicken Pepperoni - Personal",
+              "price": 37900
+            },
+            {
+              "description": "Serves 1 | Pizza topped with Chicken n Cheese Sausages & crunchy Onions, flavourful pan sauce and 100% mozzarella cheese.",
+              "id": "111745331",
+              "imageId": "aylqpxx08pltowbzxhd3",
+              "name": "Chicken Sausage - Personal",
+              "price": 25900
+            },
+            {
+              "description": "Mouth-watering Chicken Tikka, crunchy Onion & Tomato with delicious Tandoori Sauce and 100% mozzarella cheese.",
+              "id": "99712926",
+              "imageId": "juplqft4tmub5hqocwxk",
+              "name": "Chicken Tikka - Personal",
+              "price": 37900
+            },
+            {
+              "description": "Serves 1 | A combination of juicy Sweet Corn & 100% mozzarella cheese with flavourful signature pan sauce.",
+              "id": "99712869",
+              "imageId": "ckbnw98n6tffy50wvuzm",
+              "name": "Corn & Cheese - Personal",
+              "price": 21900
+            },
+            {
+              "description": "Serves 1 | Loaded with Herbed Onion & Green capsicum, Sweet Corn, Tomato & Mushroom with signature pan sauce and 100% mozzarella cheese. It's a feast you can't refuse.",
+              "id": "99712904",
+              "imageId": "fqzol9tuftv5aelg0v35",
+              "name": "Country Feast - Personal",
+              "price": 31900
+            },
+            {
+              "description": "Dhaba style chicken keema masala, with green chiili, crunchy onion with flavourful pan sauce, 100 % mozzarella cheese & a generous drizzle of mint mayo",
+              "id": "128412981",
+              "imageId": "d9eddb1993da4e5dc65ef2ceaa8503f7",
+              "name": "Dhabe Da Keema - Personal",
+              "price": 31900
+            },
+            {
+              "description": "Pizza topped with our herb-infused signature pan sauce and 100% mozzarella cheese. A classic treat for all cheese lovers out there!",
+              "id": "99712860",
+              "imageId": "dpventcrozvfni0lqb10",
+              "name": "Margherita - Personal",
+              "price": 16900
+            },
+            {
+              "description": "A treat for all makhni lovers. Spiced paneer, onion, juicy red bell peppers with our new flavourful makhni sauce, topped with 100% mozzarella cheese and buttery spice sprinkle",
+              "id": "128412978",
+              "imageId": "bf62afee565475fb92a204206321a41c",
+              "name": "Mazedar Makhni Paneer - Personal",
+              "price": 37900
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "43836",
+      "name": "McDonald's",
+      "cuisines": ["Burgers", "Beverages", "Cafe", "Desserts"],
+      "costForTwo": "₹400 for two",
+      "avgRating": 4.3,
+      "deliveryTime": 25,
+      "cloudinaryImageId": "03501c33ecb3a3105124441e541e6fe4",
+      "menuItem": [
+        {
+          "title": "Sharing Combos",
+          "itemCards": [
+            {
+              "description": "Stay home, stay safe and share a combo- 2 McAloo Tikki Burgers + 2 Fries (L)",
+              "id": "52431077",
+              "imageId": "ea7ba594c7d77cb752de9a730fbcb3bf",
+              "name": "2 McAloo Tikki + 2 Fries (L)",
+              "price": 31905
+            },
+            {
+              "description": "Tender and juicy chicken patty cooked to perfection, with creamy mayonnaise and crunchy lettuce adding flavour to each bite. Served with 6 Pc Nuggets and Coke.",
+              "id": "63149161",
+              "imageId": "934194567f9c231dc46dccf2d4e6d415",
+              "name": "6 Pc Nuggets + McChicken + Coke",
+              "price": 32953
+            },
+            {
+              "description": "Flat 15% Off on McSpicy Chicken Burger + McChicken Burger + Fries (M)",
+              "id": "102107203",
+              "imageId": "630a62321ae747b1c3a60a550387c84b",
+              "name": "McSpicy Chicken Burger + McChicken Burger + Fries (M)",
+              "price": 37524
+            },
+            {
+              "description": "Flat 15% Off on Corn & Cheese Burger +McVeggie Burger+Fries (M)",
+              "id": "112713361",
+              "imageId": "a6fae39f2d1210d4746ffb3b5cc474f9",
+              "name": "Corn & Cheese Burger +McVeggie Burger+Fries (M)",
+              "price": 33238
+            },
+            {
+              "description": "Get the best value in your meal for 2. Save big on your favourite sharing meal - 2 McChicken Burger + 2 Fries (M) + Veg Pizza McPuff",
+              "id": "117965851",
+              "imageId": "b57153898abed2127d7217c2ee3e9e4b",
+              "name": "2 McChicken Burger\t + 2 Fries (M)\t + Veg Pizza McPuff",
+              "price": 38762
+            },
+            {
+              "description": "Get the best value in your meal for 2. Save big on your favourite sharing meal - 2 McSpicy Chicken Burger + 2 Fries (M) + Veg Pizza McPuff",
+              "id": "117965852",
+              "imageId": "e62aea3ba1cd5585a76004f59cd991e5",
+              "name": "2 McSpicy Chicken Burger  + 2 Fries (M)  + Veg Pizza McPuff",
+              "price": 49048
+            },
+            {
+              "description": "Get the best value in your meal for 2. Save big on your favourite sharing meal - 2 McVeggie Burger + 2 Fries (M) + Veg Pizza McPuff",
+              "id": "117965853",
+              "imageId": "1ff73fc5aa656a10da5801469da3327a",
+              "name": "2 McVeggie Burger\t + 2 Fries (M)\t \t+ Veg Pizza McPuff",
+              "price": 38762
+            }
+          ]
+        },
+        {
+          "title": "Jain Friendly",
+          "itemCards": [
+            {
+              "description": "Enjoy a combo of the Jain friendly, McCheese Burger Veg, Classic corn, Cheese Dip, McFlurry Oreo (Small) with a beverage of your choice in a delivery friendly, resuable bottle.",
+              "id": "117965854",
+              "imageId": "49e13df87ab3602afa703792ee63fcd3",
+              "name": "Jain Meal - McCheese Burger Veg",
+              "price": 39810
+            },
+            {
+              "description": "Find pure indulgence in our Veg McCheese Burger, featuring a sinfully oozing Cheese veg patty, roasted chipotle sauce, jalapenos & lettuce.",
+              "id": "125370267",
+              "imageId": "a2bd9588c189a6e47f67b8f43732cbe2",
+              "name": "McCheese Burger Veg.",
+              "price": 26190
+            }
+          ]
+        },
+        {
+          "title": "Fried Chicken & Wings",
+          "itemCards": [
+            {
+              "description": "Try the new McSpicy Fried chicken that is juicy, crunchy and spicy to the last bite!",
+              "id": "52364329",
+              "imageId": "18cdeabc815b748622911259c3b7df1d",
+              "name": "McSpicy Fried Chicken - 1 PC",
+              "price": 12000
+            },
+            {
+              "description": "Two pieces of the new McSpicy Fried chicken that are juicy, crunchy and spicy to the last bite!",
+              "id": "112713376",
+              "imageId": "fcbc9e5bc45ebf0fde9ac2da44032035",
+              "name": "2 PC Mcspicy Fried chicken",
+              "price": 22762
+            },
+            {
+              "description": "Enjoy 5 pc of McSpicy Fried chicken + 2 Coke - perfect sharing meal for a party!",
+              "id": "112713380",
+              "imageId": "54bafa953686424e5af0f9a0a20ef1c9",
+              "name": "5 pc of McSpicy Fried chicken Bucket + 2 Coke",
+              "price": 53334
+            },
+            {
+              "description": "Share your love for chicken with the Friendship box: 5 pcs McSpicy Fried chicken",
+              "id": "119984440",
+              "imageId": "5ceceaea3e7052d91c7d87ddd2b65804",
+              "name": "5 pcs McSpicy Fried Chicken Bucket",
+              "price": 42476
+            },
+            {
+              "description": "Try the juicy, spicy, crunchy McSpicy Chicken Wings - 2 Pc",
+              "id": "124343012",
+              "imageId": "6e4918a1cf1113361edba3ed33519ffc",
+              "name": "McSpicy Chicken Wings- 2 Pc",
+              "price": 8000
+            },
+            {
+              "description": "Try the juicy, spicy, crunchy McSpicy Chicken Wings - 4 Pc",
+              "id": "124343013",
+              "imageId": "7122300975cc9640e84cdc7e7c74e042",
+              "name": "McSpicy Chicken Wings- 4 Pc",
+              "price": 15143
+            },
+            {
+              "description": "Share your love for chicken with the Duet box: 4 pcs McSpicy Fried chicken + 1 coke",
+              "id": "125972272",
+              "imageId": "77ce9851cf897e3d82779977a4848c08",
+              "name": "4 pcs McSpicy Fried chicken Bucket + 1 Coke",
+              "price": 47619
+            },
+            {
+              "description": "Enjoy McSpicy Fried Chicken 10 Pc + 2 Fries (L) + 4 Coke - perfect sharing meal for a party",
+              "id": "125972273",
+              "imageId": "225d73dc44b15869fe737798a154fba7",
+              "name": "McSpicy Fried Chicken 10 Pc Bucket + 2 Fries (L) + 4 Coke",
+              "price": 123906
+            }
+          ]
+        },
+        {
+          "title": "Burgers & Wraps",
+          "itemCards": [
+            {
+              "description": "Two tender & juicy chicken patties coated in spicy, crispy batter topped with a creamy sauce & crispy shredded lettuce will have you craving for more.",
+              "id": "53520883",
+              "imageId": "314b5b5786f73746de4880602723a913",
+              "name": "McSpicy Chicken Double Patty Burger",
+              "price": 21497
+            },
+            {
+              "description": "Two Tender and juicy chicken patties cooked to perfection, with creamy mayonnaise and crunchy lettuce adding flavour to each bite.",
+              "id": "53520888",
+              "imageId": "af88f46a82ef5e6a0feece86c349bb00",
+              "name": "McChicken Double Patty Burger",
+              "price": 19029
+            },
+            {
+              "description": "Two delectable patties filled with potatoes, peas, carrots and Indian spices. Packed into toasted sesame buns with crispy lettuce and mayonnaise.",
+              "id": "53520891",
+              "imageId": "2d5062832f4d36c90e7dfe61ef48e85a",
+              "name": "McVeggie Double Patty Burger",
+              "price": 19029
+            },
+            {
+              "description": "The world's favorite Indian burger! Two Crunchy potato and peas patties topped with Tom Mayo, tomatoes and onions.",
+              "id": "53520909",
+              "imageId": "ef569f74786e6344883a1decdd193229",
+              "name": "McAloo Tikki Double Patty Burger",
+              "price": 7509
+            },
+            {
+              "description": "Savor our filling 11 layer burger! Double the indulgence with 2 corn & cheese patties, along with jalape?os, onion, cheese, tomatoes, lettuce, and spicy Cocktail sauce.",
+              "id": "57683215",
+              "imageId": "7a248018e36c112eb3fb0b877b4b06f2",
+              "name": "Veg Maharaja Mac Burger",
+              "price": 23143
+            },
+            {
+              "description": "The World's favourite Indian burger! A crispy Aloo patty, tomato mayo sauce & onions",
+              "id": "58150140",
+              "imageId": "b13811eeee71e578bc6ca89eca0ec87f",
+              "name": "McAloo Tikki Burger",
+              "price": 6952
+            },
+            {
+              "description": "Savour your favorite spiced veggie patty, lettuce, mayo, between toasted sesame buns in every bite",
+              "id": "58150150",
+              "imageId": "a25f25f74a6a6068e55fcbced1580084",
+              "name": "McVeggie Burger",
+              "price": 14914
+            }
+          ]
+        },
+        {
+          "title": "Meals",
+          "itemCards": [
+            {
+              "description": "Your favorite Double Patty McAloo Tikki Burger + Fries (M) + Drink of your choice.",
+              "id": "53956835",
+              "imageId": "1bcd9724fca70871a0e1fdc298c1f0e0",
+              "name": "McAloo Tikki Double Patty Meal (M)",
+              "price": 22526
+            },
+            {
+              "description": "Your favourite Double Patty McVeggie Burger + Fries (M) + Drink of your choice",
+              "id": "53956807",
+              "imageId": "b13dfa207df1045eae030442555fb69c",
+              "name": "McVeggie Double Patty Meal (M)",
+              "price": 24583
+            },
+            {
+              "description": "Your favorite Double Patty McChicken Burger + Fries (M) + Drink of your choice",
+              "id": "53956802",
+              "imageId": "e8a8f43ee29a3b97d2fac37e89648eac",
+              "name": "McChicken Double Patty Meal (M)",
+              "price": 24583
+            },
+            {
+              "description": "Goodness of TWO scrumptiously filling McSpicy Chicken Patties + Fries (M) + Drink of your choice",
+              "id": "53956692",
+              "imageId": "91ed96b67df6e630a6830fc2e857b5b1",
+              "name": "McSpicy Chicken Double Patty Meal (M)",
+              "price": 36926
+            },
+            {
+              "description": "Scrumptiously filling McSpicy Chicken Burger + Fries (M) + Drink of your choice.",
+              "id": "58150212",
+              "imageId": "9b586c092f1c790228ac2198cf111bfd",
+              "name": "McSaver McSpicy Chicken Meal",
+              "price": 25611
+            },
+            {
+              "description": "Relish on a juicy Chicken Kebab Burger + Fries (M) + Drink of your Choice on this meal. Order now to experience a customizable, delicious meal.",
+              "id": "58150217",
+              "imageId": "b22592af2edd8c7046fcc74d10a66ace",
+              "name": "McSaver Chicken Kebab Burger Meal",
+              "price": 20469
+            },
+            {
+              "description": "Enjoy a double decker Veg Maharaja Mac+ Fries (M) + Drink of your Choice . Order now to experience a customizable, delicious meal.",
+              "id": "58150229",
+              "imageId": "6180c6720b3e29c715f1cb497cf8cdb2",
+              "name": "McSaver Veg Maharaja Mac Burger Combo",
+              "price": 38476
+            }
+          ]
+        },
+        {
+          "title": "Coffee & Beverages (Hot and Cold)",
+          "itemCards": [
+            {
+              "description": "The perfect companion to your burger, fries and everything nice.",
+              "id": "68302584",
+              "imageId": "a1afed29afd8a2433b25cc47b83d01da",
+              "name": "Coke",
+              "price": 10286
+            },
+            {
+              "description": "The perfect diet companion to your burger, fries and everything nice. Regular serving size, 300 Ml.",
+              "id": "68962005",
+              "imageId": "8d6a37c4fc69bceb66b6a66690097190",
+              "name": "Coke zero can",
+              "price": 6667
+            },
+            {
+              "description": "Quench your thirst with the Vedica Zen Water Bottle",
+              "id": "69017952",
+              "imageId": "6da8fa6b64c806e89058c87c0a85e759",
+              "name": "Vedica Zen Water Bottle",
+              "price": 4762
+            },
+            {
+              "description": "Add a zest of refreshing orange to your meal.",
+              "id": "69678412",
+              "imageId": "7d662c96bc13c4ac33cea70c691f7f28",
+              "name": "Fanta",
+              "price": 10286
+            },
+            {
+              "description": "Made with puree, pulp & juice from 6 delicious fruits",
+              "id": "78479525",
+              "imageId": "8e455d39bbbd8e4107b2099da51f3933",
+              "name": "Mixed Fruit Beverage",
+              "price": 7524
+            },
+            {
+              "description": "The perfect companion to your burger, fries and everything nice.",
+              "id": "83840289",
+              "imageId": "46e03daf797857bfbce9f9fbb539a6aa",
+              "name": "Sprite",
+              "price": 10286
+            },
+            {
+              "description": "A classic American Mud Pie gets a makeover; wonderfully creamy and rich with Chocolate, this shake is more delicious than it sounds! Now in a ne, convenient and delivery friendly packaging",
+              "id": "112620458",
+              "imageId": "d05081a8a351a3b137bf4db4d003a73c",
+              "name": "American Mud Pie",
+              "price": 20190
+            }
+          ]
+        },
+        {
+          "title": "Fries & Sides",
+          "itemCards": [
+            {
+              "description": "The perfect, taste bud tingling partner for our World Famous Fries. Shake Shake, and dive in!",
+              "id": "58150151",
+              "imageId": "df3edfc74f610edff535324cc53a362a",
+              "name": "Piri Piri Spice Mix",
+              "price": 2381
+            },
+            {
+              "description": "Crispy brown crust with a generous filling of rich tomato sauce, mixed with carrots, bell peppers, beans, onions and mozzarella. Served HOT.",
+              "id": "58150175",
+              "imageId": "abe4b8cdf0f1bbfd1b9a7a05be3413e8",
+              "name": "Veg Pizza McPuff",
+              "price": 5905
+            },
+            {
+              "description": "World Famous Fries, crispy golden, fried to perfection and lightly salted. Also known as happiness.",
+              "id": "65329668",
+              "imageId": "5a18fbbff67076c9a4457a6b220a55d9",
+              "name": "Fries (R)",
+              "price": 8571
+            },
+            {
+              "description": "World Famous Fries, crispy golden, fried to perfection and lightly salted. Also known as happiness.",
+              "id": "65329669",
+              "imageId": "8a61e7fd97c454ea14d0750859fcebb8",
+              "name": "Fries (M)",
+              "price": 11905
+            },
+            {
+              "description": "World Famous Fries, crispy golden, fried to perfection and lightly salted. Also known as happiness.",
+              "id": "65329670",
+              "imageId": "a4b3002d0ea35bde5e5983f40e4ebfb4",
+              "name": "Fries (L)",
+              "price": 13905
+            },
+            {
+              "description": "Looking for a sauce to complement your meal? Look no further.",
+              "id": "67458864",
+              "imageId": "7db5533db29a4e9d2cc033f35c5572bc",
+              "name": "Tomato Ketchup Sachet",
+              "price": 95
+            },
+            {
+              "description": "9 pieces of our iconic crispy, golden fried Chicken McNuggets!",
+              "id": "68261451",
+              "imageId": "1ca7abb262e8880f5cb545d0d2f9bb9b",
+              "name": "Chicken McNuggets - 9 Pcs",
+              "price": 20858
+            }
+          ]
+        },
+        {
+          "title": "Desserts",
+          "itemCards": [
+            {
+              "description": "Delicious soft serve meets crumbled oreo cookies, a match made in dessert heaven. Perfect for one.",
+              "id": "68302588",
+              "imageId": "a28369e386195be4071d9cf5078a438d",
+              "name": "Mcflurry Oreo Small",
+              "price": 9143
+            },
+            {
+              "description": "Delicious soft serve meets crumbled oreo cookies, a match made in dessert heaven. Share it, if you can.",
+              "id": "112713467",
+              "imageId": "f966500ed8b913a16cfdb25aab9244e4",
+              "name": "McFlurry Oreo Medium",
+              "price": 12857
+            },
+            {
+              "description": "A sinful delight, soft serve topped with delicious, gooey hot chocolate fudge. Always grab an extra spoon.",
+              "id": "112713610",
+              "imageId": "9c8958145495e8f2cf70470195f7834a",
+              "name": "Soft Serve Hot Fudge (M)",
+              "price": 6476
+            },
+            {
+              "description": "The cool vanilla soft serve ice cream with twirls of strawberry syrup.",
+              "id": "112713616",
+              "imageId": "d7bd22aa47cffdcdde2d5b6223fde06e",
+              "name": "Soft Serve Strawberry (M)",
+              "price": 6476
+            },
+            {
+              "description": "Enjoy the classic McFlurry Oreo goodness with a drizzle of hot fudge sauce with the Oreo Sundae!",
+              "id": "121923952",
+              "imageId": "3696da86802f534ba9ca68bd8be717ab",
+              "name": "Oreo Sundae Medium",
+              "price": 7143
+            },
+            {
+              "description": "A sweet treat to suit your every mood",
+              "id": "123193874",
+              "imageId": "f513cc8c35cadd098835fb5b23c03561",
+              "name": "Black Forest McFlurry Medium",
+              "price": 11524
+            },
+            {
+              "description": "A sweet treat to suit your every mood",
+              "id": "123193876",
+              "imageId": "f3c4415f38ed3982e25c9cd4665840fc",
+              "name": "Blueberry Cheese Cake",
+              "price": 22857
+            }
+          ]
+        },
+        {
+          "title": "Happy Meals",
+          "itemCards": [
+            {
+              "description": "Enjoy a combo of McChicken Burger + Sweet Corn + B Natural Mixed Fruit Beverage + Book",
+              "id": "58150136",
+              "imageId": "2b7356d14d1c9dc38d20ab8a30247834",
+              "name": "McChicken Happy Meal",
+              "price": 32953
+            },
+            {
+              "description": "Enjoy a combo of McVeggie Burger + Sweet Corn + B Natural Mixed Fruit Beverage + Book",
+              "id": "58150137",
+              "imageId": "ca05cb0597101eb8357cda385b92b584",
+              "name": "McVeggie Happy Meal",
+              "price": 30667
+            },
+            {
+              "description": "Enjoy a combo of McAloo Tikki Burger + Sweet Corn + B Natural Mixed Fruit Beverage + Book",
+              "id": "58150141",
+              "imageId": "98b4674a979d6faf528f05e65e6799f2",
+              "name": "McAloo Tikki Happy Meal",
+              "price": 21334
+            },
+            {
+              "description": "5 McChicken Burger + 5 Sweet Corn + 5 B Natural Mixed Fruit Beverage + 5 Soft Serve (M) + Book",
+              "id": "78479522",
+              "imageId": "31da1776bf9e74beea809aadc61cf1da",
+              "name": "Birthday Party Package - McChicken",
+              "price": 221144
+            },
+            {
+              "description": "5 McVeggie Burger + 5 Sweet Corn + 5 B Natural Mixed Fruit Beverage + 5 Soft Serve (M) + Book",
+              "id": "78479523",
+              "imageId": "567411605ac9c72680aa742e17fb83d5",
+              "name": "Birthday Party Package - McVeggie",
+              "price": 221144
+            },
+            {
+              "description": "Enjoy a combo of McEgg Burger  + Sweet Corn + B Natural Mixed Fruit Beverage + Book",
+              "id": "78479524",
+              "imageId": "7a328a58de3b5e209116682223e5d94d",
+              "name": "McEgg Happy Meal",
+              "price": 23905
+            },
+            {
+              "description": "Enjoy a combo of  2 Pc Chicken Nuggets + Sweet Corn+ B Natural Mixed Fruit Beverage + Book",
+              "id": "126294828",
+              "imageId": "78924991d845b01f4413bafd169fb8bc",
+              "name": "2 Pc Chicken Nuggets HM",
+              "price": 22000
+            },
+            {
+              "description": "Enjoy a combo of  4 Pc Chicken Nuggets + Sweet Corn+ B Natural Mixed Fruit Beverage + Book",
+              "id": "126294829",
+              "imageId": "d85f06a7806ccad6994a3a4badf90135",
+              "name": "4 Pc Chicken Nuggets HM",
+              "price": 26762
+            }
+          ]
+        },
+        {
+          "title": "McSaver Combos",
+          "itemCards": [
+            {
+              "description": "Tender and juicy chicken patty coated in spicy, crispy batter topped with a creamy sauce and crispy shredded lettuce will have you craving for more. Served with Veg Pizza McPuff",
+              "id": "33933608",
+              "imageId": "fb4b9d4775505e82d05d6734ef3e2491",
+              "name": "Pizza Mc Puff + McSpicy Chicken",
+              "price": 18952
+            },
+            {
+              "description": "The ultimate chicken combo made just for you. Get the top selling McChicken with the McSpicy Chicken Burger.",
+              "id": "50287486",
+              "imageId": "006d51070b0ab9c839a293b87412541c",
+              "name": "McChicken + McSpicy Chicken Burger",
+              "price": 29143
+            },
+            {
+              "description": "A delectable patty filled with potatoes, peas, carrots and tasty Indian spices. Topped with crispy lettuce, mayonnaise, and packed into toasted sesame buns makes our iconic McVeggie. Make it a combo with our top selling McAloo Tikki Burger.",
+              "id": "50287497",
+              "imageId": "1f4d583548597d41086df0c723560da7",
+              "name": "McVeggie + McAloo Tikki Burger",
+              "price": 18952
+            },
+            {
+              "description": "Tender and juicy chicken patty cooked to perfection, with creamy mayonnaise and crunchy lettuce adding flavour to each bite. Served with Medium Fries.",
+              "id": "63149158",
+              "imageId": "f2db3e452c63d643cc735371537e49c7",
+              "name": "McChicken + Fries (M)",
+              "price": 18000
+            },
+            {
+              "description": "A delectable patty filled with potatoes, peas, carrots and tasty Indian spices. Topped with crispy lettuce, mayonnaise, and packed into toasted sesame buns. Served with Medium Fries.",
+              "id": "63149159",
+              "imageId": "d14cc495747a172686ebe43e675bc941",
+              "name": "McVeggie + Fries (M)",
+              "price": 18952
+            },
+            {
+              "description": "The ultimate veg combo made just for you. Get the top selling McAloo Tikki served with Veg Pizza McPuff and Coke.",
+              "id": "63149162",
+              "imageId": "9f0269a2d28f4918a3b07f63a487f26d",
+              "name": "McAloo Tikki + Veg Pizza McPuff + Coke",
+              "price": 16096
+            },
+            {
+              "description": "The perfect companion to your burger, fries and everything nice. Double it up with this combo.",
+              "id": "65035612",
+              "imageId": "2d7540e92ac04c0c0823e9f4f029e2dd",
+              "name": "2 Coke",
+              "price": 16476
+            }
+          ]
+        },
+        {
+          "title": "McBreakfast",
+          "itemCards": [
+            {
+              "description": "Sizzling aromatic sausage accompanied by the freshly steamed egg between the two slices of fresh English muffins + Coffee (R)",
+              "id": "33428071",
+              "imageId": "55f41cd2962cd5162adf657a949fab80",
+              "name": "Sausage & Egg McMuffin 2 pc Meal",
+              "price": 26953
+            },
+            {
+              "description": "Sizzling aromatic sausage patty between the two slices of fresh English muffins + Coffee (R)",
+              "id": "33428076",
+              "imageId": "c57b5327ffeb8d44f90982ef13811c78",
+              "name": "Sausage McMuffin 2 pc Meal",
+              "price": 25333
+            },
+            {
+              "description": "Freshly fried golden brown potatoes that melt in your mouth.",
+              "id": "58150161",
+              "imageId": "534f18e69e28bb060a85d30e03a102e4",
+              "name": "Hashbrown",
+              "price": 5333
+            },
+            {
+              "description": "Make your mornings Cheese with the new Double Cheese McMuffin. Shredded onion, Jalapenos topped with Cheese (and more cheese) layered between toasted and buttered Muffin buns",
+              "id": "115693022",
+              "imageId": "8bcca26adae8fa3e5593e1c8405dcac9",
+              "name": "Double Cheese McMuffin- Sandwich",
+              "price": 10095
+            },
+            {
+              "description": "Try the delcious combo of Double Cheese McMuffin, Crispy Hashbrown and a beverage of your choice (S) to brighten up your day.",
+              "id": "115693023",
+              "imageId": "3a91832849055b8770ec4ef2bd27fd03",
+              "name": "Double Cheese McMuffin 3 Pc Meal",
+              "price": 24286
+            },
+            {
+              "description": "Fluffy soft egg topped with Cheese served between English muffins",
+              "id": "115693024",
+              "imageId": "39bb3c273b440ee352b738fa1f00c842",
+              "name": "Egg & Cheese McMuffin - Sandwich",
+              "price": 10095
+            },
+            {
+              "description": "Fluffy soft egg topped with cheese served between English muffins. Served with Hashbrown and a coffee of your choice.",
+              "id": "115693025",
+              "imageId": "6e3ebff1d0678c7678e4fd2401f799ae",
+              "name": "Egg & Cheese McMuffin 3 Pc Meal",
+              "price": 24286
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "588619",
+      "name": "KFC",
+      "cuisines": ["Burgers", "Biryani", "American", "Snacks", "Fast Food"],
+      "costForTwo": "₹400 for two",
+      "avgRating": 4.2,
+      "deliveryTime": 31,
+      "cloudinaryImageId": "f01666ac73626461d7455d9c24005cd4",
+      "menuItem": [
+        {
+          "title": "Recommended",
+          "itemCards": [
+            {
+              "description": "Crunchy chicken topped with cheese, spicy sauce, veggies & herbs. All-chicken-no-crust pizza! [Serves 1]",
+              "id": "108268023",
+              "imageId": "5108c304c25e2360d28588a461e1f210",
+              "name": "Chicken Chizza",
+              "price": 31905
+            },
+            {
+              "description": "All-chicken-no-crust Chizza, Choco Lava Cake and a Pepsi PET 475ml at a deal price [Serves 1-2]",
+              "id": "127997680",
+              "imageId": "e4d425ed2f059e4e12c8b905f3bc7d99",
+              "name": "Chicken Chizza & Dessert Meal",
+              "price": 46857
+            },
+            {
+              "description": "1 Crunchy all-chicken-no-crust Chizza served with Pepsi PET 475ml [Serves 1]",
+              "id": "111580130",
+              "imageId": "aa3caff35ff99fab3dadcd1121a962ce",
+              "name": "Chicken Chizza & Pepsi Combo",
+              "price": 37619
+            },
+            {
+              "description": "2 Crunchy all-chicken-no-crust Chizza topped with cheese, spicy sauce, veggies & herbs [Serves 2-3]",
+              "id": "108268020",
+              "imageId": "302d1fbc468a89dbc497f3181827a7f5",
+              "name": "Duo Chicken Chizza",
+              "price": 62857
+            },
+            {
+              "description": "All-chicken-no-crust Chizza, 2 Pc Hot Wings and a Pepsi PET 475ml at a deal price [Serves 1-2]",
+              "id": "127997677",
+              "imageId": "120374790af673aae76c5a5d883d45ad",
+              "name": "Chicken Chizza & Wings Meal",
+              "price": 45905
+            },
+            {
+              "description": "New Plain Rice Bowlz",
+              "id": "129529019",
+              "imageId": "38c021b7322ea7451ad6668b1e0706be",
+              "name": "Plain Rice Bowlz",
+              "price": 13905
+            },
+            {
+              "description": "Deal Savings of Rs. 118 on 2 units of Popcorn Chicken Rice Bowlz and 8 Pc Hot Wings [Serves 3-4]",
+              "id": "129529018",
+              "imageId": "8239f998f8dd9b79b00ed459ff995ca0",
+              "name": "Popcorn Chicken Rice Bowlz & Wings Meal",
+              "price": 69905
+            }
+          ]
+        },
+        {
+          "title": "CHICKEN CHIZZA",
+          "itemCards": [
+            {
+              "description": "Crunchy chicken topped with cheese, spicy sauce, veggies & herbs. All-chicken-no-crust pizza! [Serves 1]",
+              "id": "108268023",
+              "imageId": "5108c304c25e2360d28588a461e1f210",
+              "name": "Chicken Chizza",
+              "price": 31905
+            },
+            {
+              "description": "All-chicken-no-crust Chizza, Choco Lava Cake and a Pepsi PET 475ml at a deal price [Serves 1-2]",
+              "id": "127997680",
+              "imageId": "e4d425ed2f059e4e12c8b905f3bc7d99",
+              "name": "Chicken Chizza & Dessert Meal",
+              "price": 46857
+            },
+            {
+              "description": "1 Crunchy all-chicken-no-crust Chizza served with Pepsi PET 475ml [Serves 1]",
+              "id": "111580130",
+              "imageId": "aa3caff35ff99fab3dadcd1121a962ce",
+              "name": "Chicken Chizza & Pepsi Combo",
+              "price": 37619
+            },
+            {
+              "description": "2 Crunchy all-chicken-no-crust Chizza topped with cheese, spicy sauce, veggies & herbs [Serves 2-3]",
+              "id": "108268020",
+              "imageId": "302d1fbc468a89dbc497f3181827a7f5",
+              "name": "Duo Chicken Chizza",
+              "price": 62857
+            },
+            {
+              "description": "All-chicken-no-crust Chizza, 2 Pc Hot Wings and a Pepsi PET 475ml at a deal price [Serves 1-2]",
+              "id": "127997677",
+              "imageId": "120374790af673aae76c5a5d883d45ad",
+              "name": "Chicken Chizza & Wings Meal",
+              "price": 45905
+            }
+          ]
+        },
+        {
+          "title": "RICE BOWLZ",
+          "itemCards": [
+            {
+              "description": "New Plain Rice Bowlz",
+              "id": "129529019",
+              "imageId": "38c021b7322ea7451ad6668b1e0706be",
+              "name": "Plain Rice Bowlz",
+              "price": 13905
+            },
+            {
+              "description": "Deal Savings of Rs. 118 on 2 units of Popcorn Chicken Rice Bowlz and 8 Pc Hot Wings [Serves 3-4]",
+              "id": "129529018",
+              "imageId": "8239f998f8dd9b79b00ed459ff995ca0",
+              "name": "Popcorn Chicken Rice Bowlz & Wings Meal",
+              "price": 69905
+            },
+            {
+              "description": "Aromatic Veg rice bowl mixed with spicy gravy [serves 1]",
+              "id": "129529017",
+              "imageId": "b55628a57b4ae927013617605d4db6e6",
+              "name": "Veg Rice Bowlz",
+              "price": 19905
+            },
+            {
+              "description": "Aromatic Poprcorn Chicken rice bowl mixed with spicy gravy [serves 1]",
+              "id": "129529016",
+              "imageId": "9e57b3b9478a4a0b114b8ba4e1b5be89",
+              "name": "Popcorn Chicken Rice Bowlz",
+              "price": 22952
+            },
+            {
+              "description": "Aromatic Smoky Red Chicken rice bowl mixed with spicy gravy [serves 1]",
+              "id": "129529015",
+              "imageId": "3e243b6fbc280b8891643b1d3b7836f6",
+              "name": "Smoky Red Chicken Rice Bowlz",
+              "price": 22952
+            },
+            {
+              "description": "Aromatic Hot & Crispy Chicken rice bowl mixed with spicy gravy [serves 1]",
+              "id": "129529014",
+              "imageId": "a74de1a2b59bf60d616d458b7e78bd1a",
+              "name": "Classic Chicken Rice Bowlz",
+              "price": 22952
+            },
+            {
+              "description": "Save Rs. 30 on aromatic Hot & Crispy Chicken rice bowl mixed with spicy gravy [serves 2]",
+              "id": "129529012",
+              "imageId": "30eb3662da29c0e469299b2149aa4600",
+              "name": "Duo Popcorn Chicken Rice Bowlz",
+              "price": 42857
+            }
+          ]
+        },
+        {
+          "title": "BURGERS",
+          "itemCards": [
+            {
+              "description": "New Spicy Zinger Burger with Medium Popcorn and Pepsi PET 475ml at a deal price",
+              "id": "122151318",
+              "imageId": "6cce1149da3fbc6f78f0857a1863332a",
+              "name": "Spicy Zinger Burger and Popcorn Meal",
+              "price": 43900
+            },
+            {
+              "description": "New Zinger Pro premium Burger with Medium Popcorn and Pepsi PET 475ml at a deal price",
+              "id": "122151315",
+              "imageId": "9b153dffd3829fb695a66e4fd7182b6c",
+              "name": "Zinger Pro Burger & Popcorn Meal",
+              "price": 45905
+            },
+            {
+              "description": "New Spicy Zinger Burger with 1 Pc Hot & Crispy and Pepsi PET 475ml at a deal price",
+              "id": "122151306",
+              "imageId": "97d830dff091ac86dd037033d9560b01",
+              "name": "Spicy Zinger Burger and Chicken Meal",
+              "price": 37900
+            },
+            {
+              "description": "Premium burger with crunchy chicken, Mexican Habanero sauce, cheese, tomato & onion",
+              "id": "122151304",
+              "imageId": "36901b422d759c19c2799c10eeb416c8",
+              "name": "Zinger Pro Burger",
+              "price": 23905
+            },
+            {
+              "description": "New Zinger Pro premium Burger with 1 Pc Hot & Crispy and Pepsi PET 475ml at a deal price",
+              "id": "122151302",
+              "imageId": "6bafd5f307841d1025401757c7be3521",
+              "name": "Zinger Pro Burger & Chicken Meal",
+              "price": 39905
+            },
+            {
+              "description": "Signature burger with a crunchy chicken fillet, cheese slice, veggies & a delicious mayo sauce",
+              "id": "122151297",
+              "imageId": "418e7dc325cf65d7c1d9faab2e646421",
+              "name": "Chicken Zinger Burger - Classic with Cheese",
+              "price": 22405
+            },
+            {
+              "description": "Chicken zinger with a?delicious tandoori sauce & cheese slice",
+              "id": "122151293",
+              "imageId": "7af6cdbf96ad445ebfce65f568fd0adf",
+              "name": "Chicken Zinger Burger - Tandoori with Cheese",
+              "price": 23357
+            }
+          ]
+        },
+        {
+          "title": "PERI PERI CHICKEN STRIPS & LEG PC (UP TO 25%)",
+          "itemCards": [
+            {
+              "description": "Save 24% with the indulging 10 Piece Peri Peri Boneless Strips and 2 Dips [Serves 2-3]",
+              "id": "113591608",
+              "imageId": "a0feef07b2a9d72ba02f4a7d53e46948",
+              "name": "Peri Peri 10 Pc Chicken Strips & 2 Dips",
+              "price": 49905
+            },
+            {
+              "description": "Save Rs 120 on 5 Spicy Peri Peri Leg Pieces, paired with 2 delicous dips (20gm each) [serves 2]",
+              "id": "124525871",
+              "imageId": "561e47ac42b2e426ec03e46d7d09b01b",
+              "name": "Peri Peri Chicken 5 Leg Piece & 2 Dips",
+              "price": 51905
+            },
+            {
+              "description": "Save Rs. 334 on 10 Spicy Peri Peri Leg Pieces & 4 Dips (20gm each) [serves 3-4]",
+              "id": "124525870",
+              "imageId": "ye1imbdqn5efc7vheuah",
+              "name": "Peri Peri 10 Leg Pc & 4 Dips",
+              "price": 94857
+            },
+            {
+              "description": "Save 16% with on savouring 6 Spicy Peri Peri chicken boneless strips [serves 2]",
+              "id": "99896532",
+              "imageId": "qsmfyjef2hbu05emuu2c",
+              "name": "Peri Peri Chicken Strips - 6 Pc",
+              "price": 29905
+            }
+          ]
+        },
+        {
+          "title": "BUCKETS/ MEALS FOR 1-2 (UP TO 15% OFF)",
+          "itemCards": [
+            {
+              "description": "Flat Rs. 115 off with this variety combo of 2pc Hot & Crispy Chicken, 2 pc Smoky Red Grilled Chicken & a Large Chicken Popcorn [serves 2-3]",
+              "id": "99896550",
+              "imageId": "wmn6qpsqazt1ln8hylum",
+              "name": "Chicken Bucket for Two",
+              "price": 59905
+            },
+            {
+              "description": "Save Rs. 57 on Deal combo of 2 chicken value burgers, 2 pc Hot & Crispy, 2 dips (20gm each) & a chilled Pepsi PET 475 ml [Serves 1-2]",
+              "id": "99896522",
+              "imageId": "m038pslx2jfyqgdmlgch",
+              "name": "Chicken Krisper Burger Combo",
+              "price": 53905
+            },
+            {
+              "description": "Save Rs. 63 on this crowd favorite combo of 4 Hot Wings, 2 Chicken Peri Peri Boneless Strips, a Reg Popcorn, medium fries & a chilled Pepsi PET 475ml [serves 2 ]",
+              "id": "99896553",
+              "imageId": "kt0vzw4bzztarxnl0wcl",
+              "name": "Chicken Mingles Bucket Meal",
+              "price": 49905
+            },
+            {
+              "description": "Crowd-favorite combo of 2pc Hot & Crispy Chicken with Medium French Fries",
+              "id": "99896506",
+              "imageId": "pasdg6owucvi23hcp9eb",
+              "name": "Chicken & French Fries Bucket",
+              "price": 29905
+            },
+            {
+              "description": "Large Chicken Popcorn with Med French Fries - at a deal price",
+              "id": "99896502",
+              "imageId": "raq6sxtwfb9fvbd6bakq",
+              "name": "Chicken Popcorn & French Fries Bucket",
+              "price": 31905
+            },
+            {
+              "description": "Save Rs. 49 with 2 veg value burgers, crispy Medium French Fries & 2 delicious Dips at a deal price! [Serves 1-2]",
+              "id": "99896515",
+              "imageId": "xdzkcjjgypmjcwhikqae",
+              "name": "2 X Veg Krispers Burger Meal",
+              "price": 28857
+            }
+          ]
+        },
+        {
+          "title": "BUCKETS/ MEALS FOR 3-4 (UP TO 35% OFF)",
+          "itemCards": [
+            {
+              "description": "Save 24% with variety bucket of 1 Leg Pc, 1 Hot & Crispy, 2 Wings, 2 Strips, 1 Zinger Fillet, 3 Dips [20gm each] & 1 Pepsi 475 ml [Serves 2-3]",
+              "id": "117825877",
+              "imageId": "31f899d11feb6a4bc6b3af7815e0f06f",
+              "name": "All in One Chicken Bucket",
+              "price": 54857
+            },
+            {
+              "description": "Savings of 35% on signature bucket of 4pc Hot & crispy chicken, 6 Pc Wings, 4 Chicken Peri Peri Boneless strips, 2 Dips (20 gms each) & a Pepsi PET 475ml [serves 2-3 ]",
+              "id": "99896545",
+              "imageId": "jysxpxexjutosyup1ycs",
+              "name": "Ultimate Savings Chicken Bucket",
+              "price": 69905
+            },
+            {
+              "description": "Save 24% & enjoy 4pc Hot & Crispy Chicken, 4 Hot Wings, 6 chicken peri peri boneless strips & 2 delicious dips (20gm each) [serves 3]",
+              "id": "99896556",
+              "imageId": "nku1xlhmmifu1hxoiugt",
+              "name": "Stay Home Chicken Bucket",
+              "price": 79905
+            },
+            {
+              "description": "Save 26% on 6pc Hot & Crispy Chicken, 6 Hot Wings & 2 dips (20gm each) [serves 2- 3]",
+              "id": "99896544",
+              "imageId": "yqxxwbdxoaconjcyb7ka",
+              "name": "Big 12 - Chicken Bucket",
+              "price": 74857
+            },
+            {
+              "description": "Save 27% on this variety bucket of 4pc Hot & Crispy chicken & 4pc Smoky Red chicken [serves 2- 3 ]",
+              "id": "99896546",
+              "imageId": "yiozpo7vfq8t5s4hns1v",
+              "name": "Big 8 - Chicken Bucket",
+              "price": 69905
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "368270",
+      "name": "Mini Samrat",
+      "cuisines": ["South Indian", "North Indian", "Chinese", "Desserts"],
+      "costForTwo": "₹350 for two",
+      "avgRating": 4.4,
+      "deliveryTime": 33,
+      "cloudinaryImageId": "rvsndbyajgvx2sdtuvek",
+      "menuItem": [
+        {
+          "title": "Recommended",
+          "itemCards": [
+            {
+              "id": "67858755",
+              "imageId": "zcnbhsiu17a2ilj6ztbt",
+              "name": "Rava Idli (1 Pc)",
+              "price": 8000
+            },
+            {
+              "id": "67858723",
+              "imageId": "68ddaf61da31b8ba2d4c727ce630b9b5",
+              "name": "Uddina Vada",
+              "price": 4500
+            },
+            {
+              "id": "67858748",
+              "imageId": "099d11736213062dabed46f412f02177",
+              "name": "Kharabath",
+              "price": 7000
+            },
+            {
+              "id": "67858734",
+              "imageId": "ieitxqlx0e28jereo0dm",
+              "name": "Idli Dip",
+              "price": 2500
+            },
+            {
+              "description": "Ghee roast masala dosa",
+              "id": "106148906",
+              "imageId": "6e140b8c07f9e9977ad5d3b703440469",
+              "name": "Ghee Roast Masala Dosa  ",
+              "price": 12500
+            },
+            {
+              "id": "67858810",
+              "imageId": "zvnfr36rdttxqxlvqygh",
+              "name": "Plain Masala Dosa With Red Chutney(no Palya)",
+              "price": 9000
+            },
+            {
+              "id": "67858815",
+              "imageId": "xiscqlz2djjbaecyxl3x",
+              "name": "Saagu Dosa",
+              "price": 10500
+            }
+          ]
+        },
+        {
+          "title": "Extra Chalukya Sambar & Green Chutney(idli / Vada / Dosa)",
+          "itemCards": [
+            {
+              "description": "Only sambar",
+              "id": "108062242",
+              "name": "Sambar 750ml (for Idli, Dosa)",
+              "price": 32400
+            },
+            {
+              "id": "108062243",
+              "name": "Green Chutney 500ml",
+              "price": 27400
+            }
+          ]
+        },
+        {
+          "title": "South Indian Snacks",
+          "itemCards": [
+            {
+              "id": "67858718",
+              "name": "1 Rice Idli ",
+              "price": 3500
+            },
+            {
+              "id": "67858731",
+              "name": "1 Idli 1 Vada",
+              "price": 7500
+            },
+            {
+              "id": "67858755",
+              "imageId": "zcnbhsiu17a2ilj6ztbt",
+              "name": "Rava Idli (1 Pc)",
+              "price": 8000
+            },
+            {
+              "description": "You get 3 big poorie",
+              "id": "67858758",
+              "name": "Poori (3pc) With Saghu",
+              "price": 10500
+            },
+            {
+              "description": "You get 3 big poorie",
+              "id": "67858762",
+              "name": "Poori (3pc) With Palya",
+              "price": 10500
+            },
+            {
+              "id": "67858738",
+              "name": "1 Idli 1 Vada Dip",
+              "price": 7500
+            },
+            {
+              "id": "67858723",
+              "imageId": "68ddaf61da31b8ba2d4c727ce630b9b5",
+              "name": "Uddina Vada",
+              "price": 4500
+            }
+          ]
+        },
+        {
+          "title": "Dosa Special",
+          "itemCards": [
+            {
+              "id": "109341656",
+              "name": "Set Dosa With Saghu (3 Piece)",
+              "price": 12000
+            },
+            {
+              "description": "Made with pure ghee",
+              "id": "109341649",
+              "name": "Plain Ghee Roast Dosa(no Palya No Red Chutney)",
+              "price": 9500
+            },
+            {
+              "description": "Double ghee with pure butter and roasted with garlic chutney and cashews added, tastes superb",
+              "id": "106277554",
+              "name": "Double Roast Ghee Butter Garlic Masala Dosa",
+              "price": 15000
+            },
+            {
+              "description": "Ghee roast masala dosa",
+              "id": "106148906",
+              "imageId": "6e140b8c07f9e9977ad5d3b703440469",
+              "name": "Ghee Roast Masala Dosa  ",
+              "price": 12500
+            },
+            {
+              "id": "67858810",
+              "imageId": "zvnfr36rdttxqxlvqygh",
+              "name": "Plain Masala Dosa With Red Chutney(no Palya)",
+              "price": 9000
+            },
+            {
+              "id": "67858820",
+              "name": "Onion Dosa",
+              "price": 10500
+            },
+            {
+              "id": "67858815",
+              "imageId": "xiscqlz2djjbaecyxl3x",
+              "name": "Saagu Dosa",
+              "price": 10500
+            }
+          ]
+        },
+        {
+          "title": "Hot Milk Beverages",
+          "itemCards": [
+            {
+              "id": "109058358",
+              "name": "Filter Coffee With Sugar",
+              "price": 2500
+            },
+            {
+              "id": "109058355",
+              "name": "Tea With Sugar",
+              "price": 2500
+            },
+            {
+              "id": "109058352",
+              "name": "Filter Coffee",
+              "price": 3000
+            },
+            {
+              "id": "109058349",
+              "name": "Plain Milk 250ml",
+              "price": 4000
+            },
+            {
+              "description": "No sugar in tea",
+              "id": "67858835",
+              "name": "Tea",
+              "price": 3000
+            },
+            {
+              "id": "67858840",
+              "name": "Hot Badam Milk",
+              "price": 4000
+            },
+            {
+              "id": "67858845",
+              "name": "Plain Milk With Sugar 250ml",
+              "price": 3500
+            }
+          ]
+        },
+        {
+          "title": "North Indian Curries",
+          "itemCards": [
+            {
+              "id": "112313263",
+              "name": "Gobi Chilli Gravy",
+              "price": 22500
+            },
+            {
+              "id": "112004254",
+              "imageId": "ab5296d8bf8265754dad1785c478a6a2",
+              "name": "Paneer Guntur Masala",
+              "price": 25000
+            },
+            {
+              "id": "67858870",
+              "name": "Dal Methi",
+              "price": 19000
+            },
+            {
+              "id": "67858873",
+              "name": "Dal Fry",
+              "price": 17500
+            },
+            {
+              "id": "67858874",
+              "name": "Dal Palak",
+              "price": 19000
+            },
+            {
+              "id": "67858875",
+              "imageId": "d483c5a433f5347d3d29042172eeabad",
+              "name": "Mushroom Chilly Gravy",
+              "price": 24000
+            },
+            {
+              "id": "67858877",
+              "imageId": "8898981608cc6ee755cd7ac74e973129",
+              "name": "Mushroom Masala",
+              "price": 25000
+            }
+          ]
+        },
+        {
+          "title": "Special Spicy Curries",
+          "itemCards": [
+            {
+              "id": "67858797",
+              "name": "Spicy Mushroom Guntur Masala",
+              "price": 25000
+            },
+            {
+              "id": "67858801",
+              "name": "Spicy Paneer Guntur Masala",
+              "price": 25000
+            },
+            {
+              "description": "Packed In Madike",
+              "id": "67858803",
+              "name": "Madike Paneer Masala",
+              "price": 23000
+            },
+            {
+              "description": "Packed In Madike",
+              "id": "67858806",
+              "name": "Madike Mushroom Masala",
+              "price": 23000
+            },
+            {
+              "id": "67858809",
+              "name": "Spicy Veg Guntur Masala",
+              "price": 22000
+            }
+          ]
+        },
+        {
+          "title": "Rice Corner",
+          "itemCards": [
+            {
+              "id": "67858751",
+              "name": "Vegetable Noodles",
+              "price": 21000
+            },
+            {
+              "id": "112936465",
+              "name": "South Veg Pulao",
+              "price": 9500
+            },
+            {
+              "id": "112935866",
+              "name": "Bread Pulao",
+              "price": 9500
+            },
+            {
+              "id": "67858714",
+              "name": "Vegetable Pulav",
+              "price": 20000
+            },
+            {
+              "id": "67858721",
+              "name": "Ghee Rice",
+              "price": 16000
+            },
+            {
+              "id": "67858727",
+              "imageId": "af2efa4bea8174d46a58d88a6d3fccec",
+              "name": "Vegetable Fried Rice",
+              "price": 18000
+            },
+            {
+              "id": "67858733",
+              "name": "Gobi Fried Rice",
+              "price": 22500
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "205813",
+      "name": "Paakashala",
+      "cuisines": ["South Indian", "North Indian", "Chinese"],
+      "costForTwo": "₹500 for two",
+      "avgRating": 4.4,
+      "deliveryTime": 27,
+      "cloudinaryImageId": "thkhqrsskc5745ztfz2v",
+      "menuItem": [
+        {
+          "title": "Recommended",
+          "itemCards": [
+            {
+              "description": "Serves 1 | One pieces of soft & spongy steamed idlis prepared from fermented batter of rice and lentil. Served with sambhar & fresh chutney making it a source of fiber.",
+              "id": "90450023",
+              "imageId": "zr8tmyfgw7zgwnsw9qbn",
+              "name": "Idli (1 Pcs)",
+              "price": 4500
+            },
+            {
+              "description": "Serves 1 | Two pieces of soft & spongy steamed idlis prepared from fermented batter of rice and lentil. Served with sambhar & fresh chutney making it a source of fiber.",
+              "id": "90450025",
+              "imageId": "t9gs85fd1jc108td5wwt",
+              "name": "Idli (2 Pcs)",
+              "price": 7000
+            },
+            {
+              "description": "Serves 1 | Super-soft steamed rice cakes with hot deep fried vada served with chutney and sambar.",
+              "id": "90450026",
+              "imageId": "px3ed0cg7g2ihjhat4d4",
+              "name": "Idli (2 Pcs) Vada (1 Pcs)",
+              "price": 12000
+            },
+            {
+              "description": "Serves 1 | Soft steamed semolina batter cakes served with bombay sagu and verity of chutneys.",
+              "id": "90450096",
+              "imageId": "rmgadmcroh4f9bp0c7vq",
+              "name": "Rava Idli (1 Pcs)",
+              "price": 8000
+            },
+            {
+              "description": "Serves 1 | Three pieces of soft & spongy steamed idlis prepared from fermented batter of rice and lentil. Served with sambhar & fresh chutney making it a source of fiber.",
+              "id": "90450027",
+              "imageId": "svavnvbyr9vbwvpatodr",
+              "name": "Idli (3 Pcs)",
+              "price": 10000
+            },
+            {
+              "description": "Serves 1 | A mouthwatering golden brown dosa made of rice and lentil batter with a crispy exterior texture,served with a spicy sambar and chutney.",
+              "id": "78319037",
+              "imageId": "ayxg8kr5o84zxqk3q0lz",
+              "name": "Plain Dosa",
+              "price": 10000
+            },
+            {
+              "description": "Serves 1 | Dosa are crepes made from fermented lentil-rice batter. Served with sambar & chutney",
+              "id": "78319034",
+              "imageId": "aqiselzfwc0afcmp9grr",
+              "name": "Masala Dosa",
+              "price": 11000
+            }
+          ]
+        },
+        {
+          "title": "Idly",
+          "itemCards": [
+            {
+              "description": "Serves 1 | One pieces of soft & spongy steamed idlis prepared from fermented batter of rice and lentil. Served with sambhar & fresh chutney making it a source of fiber.",
+              "id": "90450023",
+              "imageId": "zr8tmyfgw7zgwnsw9qbn",
+              "name": "Idli (1 Pcs)",
+              "price": 4500
+            },
+            {
+              "description": "Serves 1 | Two pieces of soft & spongy steamed idlis prepared from fermented batter of rice and lentil. Served with sambhar & fresh chutney making it a source of fiber.",
+              "id": "90450025",
+              "imageId": "t9gs85fd1jc108td5wwt",
+              "name": "Idli (2 Pcs)",
+              "price": 7000
+            },
+            {
+              "description": "Super-soft steamed rice cakes with hot deep fried vada served with chutney and sambar.",
+              "id": "90450024",
+              "name": "Idli (1 Pcs) Vada (1 Pcs)",
+              "price": 9000
+            },
+            {
+              "description": "Serves 1 | Super-soft steamed rice cakes with hot deep fried vada served with chutney and sambar.",
+              "id": "90450026",
+              "imageId": "px3ed0cg7g2ihjhat4d4",
+              "name": "Idli (2 Pcs) Vada (1 Pcs)",
+              "price": 12000
+            },
+            {
+              "description": "Serves 1 | Soft steamed semolina batter cakes served with bombay sagu and verity of chutneys.",
+              "id": "90450096",
+              "imageId": "rmgadmcroh4f9bp0c7vq",
+              "name": "Rava Idli (1 Pcs)",
+              "price": 8000
+            },
+            {
+              "description": "Serves 1 | Three pieces of soft & spongy steamed idlis prepared from fermented batter of rice and lentil. Served with sambhar & fresh chutney making it a source of fiber.",
+              "id": "90450027",
+              "imageId": "svavnvbyr9vbwvpatodr",
+              "name": "Idli (3 Pcs)",
+              "price": 10000
+            },
+            {
+              "description": "Crispy deep fried vada served with sambar & chutney",
+              "id": "90450115",
+              "name": "Vada (1 Pcs)",
+              "price": 5000
+            }
+          ]
+        },
+        {
+          "title": "Dosa",
+          "itemCards": [
+            {
+              "description": "Serves 1 | A mouthwatering golden brown dosa made of rice and lentil batter with a crispy exterior texture,served with a spicy sambar and chutney.",
+              "id": "78319037",
+              "imageId": "ayxg8kr5o84zxqk3q0lz",
+              "name": "Plain Dosa",
+              "price": 10000
+            },
+            {
+              "description": "Serves 1 | Dosa are crepes made from fermented lentil-rice batter. Served with sambar & chutney",
+              "id": "78319034",
+              "imageId": "aqiselzfwc0afcmp9grr",
+              "name": "Masala Dosa",
+              "price": 11000
+            },
+            {
+              "description": "Serves 1 | 3 piece super soft and delicious set dosa served with sagu and chutney.",
+              "id": "78319042",
+              "imageId": "qhcmicpjhjuhxarlc4rz",
+              "name": "Set Dosa",
+              "price": 11000
+            },
+            {
+              "description": "Light and fluffy dosas served with sagu & chutney",
+              "id": "90450031",
+              "name": "Khali Dosa (2 Pcs)",
+              "price": 10000
+            },
+            {
+              "description": "Serves 1 | Dosa are crepes made from fermented lentil-rice batter. Served with sambar & chutney",
+              "id": "78319031",
+              "imageId": "feicuzvk7htrr1tlq8g9",
+              "name": "Butter Plain Dosa",
+              "price": 10000
+            },
+            {
+              "description": "Serves 1 | Dosa are crepes made from fermented lentil-rice batter. Masala and the red chutney inner side of dosa with butter on top served with sambar & chutney",
+              "id": "78319030",
+              "imageId": "ppyerdz7vmqthfvxkhfr",
+              "name": "Butter Masala Dosa",
+              "price": 12000
+            },
+            {
+              "description": "Serves 1 | A delicious crisp fried dosa smeared with a spicy red chutney along with mildly spiced mashed potatoes filling served with sambar and chutney",
+              "id": "90450053",
+              "imageId": "hcufhhq0x5yqkpavokqb",
+              "name": "Mysuru Masala Dosa",
+              "price": 13000
+            }
+          ]
+        },
+        {
+          "title": "South Indian",
+          "itemCards": [
+            {
+              "description": "Serves 1 | Served with chutney",
+              "id": "90450061",
+              "name": "Pakoda",
+              "price": 7000
+            },
+            {
+              "description": "Serves 1 | A south indian favourite made with wholesome, high protein a blend of rice, dal, vegetables and ground nuts which is slow cooked, served with kharabhoondi.",
+              "id": "78319122",
+              "imageId": "m0guwdbjmymgrpannqxd",
+              "name": "Bisibele Bath",
+              "price": 9000
+            },
+            {
+              "description": "Serves 1 | A perfect combination of sweet & salt to tantalize your taste buds.served with chutney",
+              "id": "78319124",
+              "imageId": "ohe5blvoeapm36h8x3a1",
+              "name": "Chow Chow Bath",
+              "price": 11000
+            },
+            {
+              "description": "Serves 1 | Mouth-melting and succulent yogurt-dipped vada bursting with a blend of flavors. Served with boondi",
+              "id": "90449992",
+              "name": "Curd Vada (1 Pcs)",
+              "price": 8500
+            },
+            {
+              "description": "Serves 1 | A succulent sweet south indian desert made of semolina cooked in ghee with diced cashew nuts,raisins and served hot.",
+              "id": "78319132",
+              "imageId": "jatirpwrhmycixukyvx0",
+              "name": "Kesari Bath",
+              "price": 5500
+            },
+            {
+              "description": "Serves 1 | Savoury semolina, which are soft and fluffy, made with fermented lentil batter, served with coconut chutney",
+              "id": "78319133",
+              "imageId": "vsd0so6d7mblozezlvwp",
+              "name": "Khara Bath",
+              "price": 6000
+            },
+            {
+              "description": "Serves 1 | Delicious south indian porridge made with rice, moong dal and rich variety of spices.",
+              "id": "78319134",
+              "imageId": "sjlmxofj9zzbo3ii65fd",
+              "name": "Pongal",
+              "price": 9000
+            }
+          ]
+        },
+        {
+          "title": "Beverages",
+          "itemCards": [
+            {
+              "description": "Your favorite south indian filter coffee",
+              "id": "78319266",
+              "name": "Coffee",
+              "price": 5500
+            },
+            {
+              "description": "High quality tea picked from the choicest tea gardens in assam blended with the flavours",
+              "id": "78319267",
+              "name": "Tea",
+              "price": 5500
+            },
+            {
+              "description": "Milk with sugar",
+              "id": "63092066",
+              "name": "Milk",
+              "price": 5500
+            },
+            {
+              "description": "Black coffe with out milk",
+              "id": "63092063",
+              "name": "Black Coffee",
+              "price": 5500
+            },
+            {
+              "description": "Black tea with out milk",
+              "id": "63092065",
+              "name": "Black Tea",
+              "price": 5500
+            },
+            {
+              "description": "Milk mixed with bournvita powder",
+              "id": "78319269",
+              "name": "Bournvita",
+              "price": 6500
+            },
+            {
+              "description": "Milk mixed with horlicks powder",
+              "id": "63092062",
+              "name": "Horlicks",
+              "price": 6500
+            }
+          ]
+        },
+        {
+          "title": "Combo",
+          "itemCards": [
+            {
+              "description": "Serves 1 | Masala dosa 2 nos, carrot halwa served with sambar & chutney",
+              "id": "54482991",
+              "name": "Masala Dosa Combo",
+              "price": 19900
+            },
+            {
+              "description": "Serves 1 | Pongal, vada 1 nos served with raita, sambar & chutney",
+              "id": "64255011",
+              "name": "Pongal + Vada",
+              "price": 13500
+            },
+            {
+              "description": "Serves 1 | Idli 1 nos, vada 1 nos, mini masala dosa, mini kesari bath, mini khara bath served with sambar & chutney",
+              "id": "64255012",
+              "name": "All Day Breakfast Combo",
+              "price": 19000
+            }
+          ]
+        },
+        {
+          "title": "Extra",
+          "itemCards": [
+            {
+              "description": "Extra cup curd",
+              "id": "78319129",
+              "name": "Extra Cup Curd",
+              "price": 2500
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "53490",
+      "name": "Palmgrove Ballal Residency",
+      "cuisines": ["Chinese", "Coastal", "Desserts", "Jain", "South Indian"],
+      "costForTwo": "₹400 for two",
+      "avgRating": 4.6,
+      "deliveryTime": 30,
+      "cloudinaryImageId": "wf83wrssazu2prtt7rss"
+    },
+    [
       {
         "title": "Recommended",
         "itemCards": [
@@ -2225,5 +2224,5 @@
         ]
       }
     ]
-  }
-  
+  ]
+}
