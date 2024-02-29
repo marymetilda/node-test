@@ -4,17 +4,8 @@ const data = require("./db.json");
 const Joi = require("joi");
 const express = require("express");
 
-// For cors error
-const corsOpts = {
-  origin: "*",
-
-  methods: ["GET", "POST"],
-
-  allowedHeaders: ["Content-Type"],
-};
-
 const app = express();
-app.use(cors(express.json()));
+app.use(express.json());
 
 // app.get('/', (req, res) => {
 //     res.send('Hello World')
